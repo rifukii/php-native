@@ -105,7 +105,6 @@
     <aside class="widget">
             <?php kalender();?>
 			<?php support();?>
-			<?php komen();?>
             <?php link_terkait();?>
       </aside>
     </aside>    

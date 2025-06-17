@@ -26,7 +26,7 @@
 	?>
 		<fieldset>
         <legend>Support</legend>
-            08986985xxx
+            <a href="ymsgr:sendIM?black_spidey43"><img border=0 src="http://opi.yahoo.com/online?u=black_spidey43&m=g&t=11" /> </a><br />
 </fieldset>
         
 	<?php
