@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<NetworkLink>
+	<name>Kabupaten Sumedang</name>
+	<description>Kabupaten Sumedang</description>
+	<Style>
+		<ListStyle>
+			<listItemType>radioFolder</listItemType>
+			<bgColor>00ffffff</bgColor>
+			<maxSnippetLines>2</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<flyToView>1</flyToView>
+	<Link>
+		<href>http://fasilitassumedang.web.id/kml</href>
+		<refreshMode>onInterval</refreshMode>
+		<refreshInterval>10</refreshInterval>
+	</Link>
+</NetworkLink>
+</kml>

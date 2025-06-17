@@ -1,0 +1,1258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Sumedang.kml</name>
+	<Style id="sn_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fff00ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f0000aa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin15">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f7f5500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fffff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f0000aa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fd99100</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin22">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f7f5555</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin14">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f0055aa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin23</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f00aaaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f005555</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin14">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f00ffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f7f0055</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin17">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fffff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f7f5500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fff5aa7</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f7faaaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin24">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f7faa00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin19">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f00aa00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f7faa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin16">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f7faa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7ff6ffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fff0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin16">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f7f0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin19">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f00aa00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f34a0ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin23">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f7f5555</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin15">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f34a0ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin24">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f0055aa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f7f0000</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f0055ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fff5aa7</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f00ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f00ffaa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin24</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f0055ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f005555</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin18">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f00aaaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin21">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f005500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f7f00aa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fd99100</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin22</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin18">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f7faa00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f00ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin21">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f7f0055</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin22">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f7f00aa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin17">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fff0000</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin24">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f7faaaa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin23">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fff00ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin23">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f005500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7ff6ffaa</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Sumedang</name>
+		<open>1</open>
+		<Placemark>
+			<name>Conggeang</name>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							107.99144944584,-6.651124837180953,0 107.991403910547,-6.651384726684698,0 107.9923633355821,-6.654077869567584,0 107.9939662967481,-6.657739730903602,0 107.997200742777,-6.662234335962605,0 107.9993740014863,-6.665251286971054,0 107.9998926860933,-6.667883887029388,0 107.9980836445397,-6.673321651173376,0 107.9947375924052,-6.681997804828439,0 107.9924930161565,-6.690288162715301,0 107.9902897762357,-6.697693606574475,0 107.9886745543461,-6.704995247942672,0 107.9902525987922,-6.708685229381884,0 107.9944496845658,-6.710065028072797,0 108.0007000547702,-6.711918451034519,0 108.0061743165998,-6.715555552519125,0 108.0092030374392,-6.720536734774734,0 108.0106504440872,-6.724514403673017,0 108.0098772126996,-6.727472352740123,0 108.0045342680052,-6.73035139055643,0 107.99754474943,-6.735873440438427,0 107.990962765089,-6.74194171181169,0 107.9824000502571,-6.748470136685603,0 107.9757509597767,-6.755719358948645,0 107.9782090392068,-6.758016337758633,0 107.9843025617138,-6.763662833504264,0 107.998812005083,-6.777320347205042,0 108.0037969570119,-6.779698399105896,0 108.009455376781,-6.779241396914575,0 108.0120736457844,-6.776317873072703,0 108.0143147341772,-6.771361360983121,0 108.0580959995204,-6.772017845103163,0 108.0636123016525,-6.766490821834925,0 108.0694350642263,-6.762401384591645,0 108.0738527823957,-6.768885305210798,0 108.0775143826735,-6.77527471041369,0 108.0816831334968,-6.777358213192553,0 108.0870288634178,-6.778550155686466,0 108.0922896343904,-6.776406623038314,0 108.0982516935176,-6.770734199305143,0 108.100981402765,-6.766011696247118,0 108.1010435153688,-6.761378882403709,0 108.0980694558832,-6.758704495075306,0 108.0957813247473,-6.756567079029963,0 108.0947523402204,-6.752408153661405,0 108.0836844838886,-6.736154800238564,0 108.0812734401932,-6.723552799740604,0 108.0887041570631,-6.71624837985662,0 108.0910298994507,-6.712518846266158,0 108.0918464060252,-6.706958624753289,0 108.0890214869533,-6.702781860662121,0 108.0870687696219,-6.701074757390437,0 108.0827360293796,-6.698225659827195,0 108.0786227477708,-6.695140145318449,0 108.0745879149504,-6.690862174432541,0 108.0662459125049,-6.683856296606183,0 108.0575261140108,-6.676787093853716,0 108.0517096569773,-6.672236003851369,0 108.045814571164,-6.66600892479672,0 108.0421159824152,-6.662670002162866,0 108.0394927521162,-6.660660314903553,0 108.0370662848951,-6.657977685677113,0 108.0346560398246,-6.655738098075855,0 108.0325858598029,-6.653814615138269,0 108.032631577125,-6.65514072579395,0 108.0316076786376,-6.657495670246645,0 108.0294117327354,-6.65845169753296,0 108.028842879599,-6.66122848293332,0 108.0282202567214,-6.662461324515891,0 108.0273758185892,-6.663701006986251,0 108.0153391249374,-6.66424005509732,0 108.0135794445128,-6.663092891710187,0 108.0106121775065,-6.662646434084027,0 107.9991060945294,-6.654646193229477,0 107.9921492925458,-6.651273178359198,0 107.99144944584,-6.651124837180953,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Ujungjaya</name>
+			<styleUrl>#msn_ylw-pushpin13</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							108.0406357797912,-6.661320641942658,0 108.0427816217425,-6.662995264335723,0 108.0510904279151,-6.671482537557298,0 108.061335314099,-6.679683117583131,0 108.0739514314587,-6.690291469865276,0 108.0798818954649,-6.696228651158545,0 108.0884609949965,-6.702079268209507,0 108.091710418378,-6.706792360200518,0 108.0913726262835,-6.709652069150987,0 108.0908147827483,-6.712737793597035,0 108.088689848821,-6.715878589106159,0 108.0852786962858,-6.719058152798372,0 108.0814619213042,-6.723215830090335,0 108.0822964326651,-6.729313031113263,0 108.0836645536727,-6.73628742926898,0 108.0864809690692,-6.740578428437717,0 108.0895056836731,-6.744858346314547,0 108.0920675115374,-6.748494599746749,0 108.0950813619733,-6.752771349507189,0 108.0956471082104,-6.756472918983212,0 108.0972506647953,-6.75839029512269,0 108.1010596119896,-6.761341557996321,0 108.1043584833495,-6.761234579765703,0 108.1087347974774,-6.760213649607736,0 108.1128714756588,-6.758542128850363,0 108.1163078798194,-6.755799227390807,0 108.1186220705271,-6.752435468505925,0 108.1216304983087,-6.750145129786502,0 108.1245102814592,-6.750487836302598,0 108.1285266517901,-6.751889887966545,0 108.1350286673108,-6.754965653801504,0 108.1390352963207,-6.75593115174457,0 108.1423963593784,-6.757350207195552,0 108.1445871283816,-6.756839290843422,0 108.1462634937915,-6.754153807797036,0 108.1481462738725,-6.751021970912325,0 108.1510078149452,-6.750707913915977,0 108.1507279108462,-6.748962294743548,0 108.1508523030496,-6.746106439615711,0 108.1521393756586,-6.744966785769768,0 108.1532059107778,-6.743834423379597,0 108.1557563694101,-6.741332511002702,0 108.1576308837038,-6.737980615371426,0 108.1595500789013,-6.735942976358863,0 108.1619478343363,-6.734985940374925,0 108.1638376740798,-6.732070933989156,0 108.1633222501459,-6.729894132493125,0 108.1623061925147,-6.725978751012463,0 108.1617685485228,-6.723144325445059,0 108.1601572285217,-6.72122318551112,0 108.1557216444101,-6.720712702157965,0 108.1523674276853,-6.719507969379548,0 108.1439160878684,-6.71123349716539,0 108.1374140497649,-6.708378679084459,0 108.1318072669294,-6.707030532731077,0 108.1266517861393,-6.704789657177857,0 108.1246515501021,-6.704417592997341,0 108.1177613034001,-6.703111679842839,0 108.1152168141209,-6.699687179175893,0 108.1118048407372,-6.696730261400265,0 108.1085767588927,-6.692670736497382,0 108.1045768380903,-6.685347671208573,0 108.1028200486384,-6.681755324386559,0 108.0994822745043,-6.674411825173818,0 108.096630646179,-6.674945388536639,0 108.0935366246473,-6.674829278308268,0 108.0755480114804,-6.664905848601073,0 108.0715356419632,-6.663723565969629,0 108.0690004263462,-6.66293233999793,0 108.0682656892555,-6.660764689485178,0 108.0693163901036,-6.659195328637209,0 108.0699040456086,-6.656984278229715,0 108.0685298238948,-6.655496922658212,0 108.0618886130064,-6.654841263017348,0 108.0593775506598,-6.652298530229394,0 108.0562714454279,-6.651745513192694,0 108.0526691307888,-6.643093818142711,0 108.0516624797417,-6.639401146073774,0 108.0491567891226,-6.63707211295223,0 108.0426020702796,-6.638622070752216,0 108.0367360035456,-6.641226130902163,0 108.0332676172867,-6.643090701834825,0 108.032254025779,-6.645752708461946,0 108.0329844902786,-6.649096446895285,0 108.0328979450391,-6.650818022789444,0 108.0328561126547,-6.651600967625634,0 108.0326071448316,-6.653477828723852,0 108.0329318337794,-6.654022569586146,0 108.0331761586481,-6.654401594257722,0 108.0336516503,-6.654618094771287,0 108.0343980700859,-6.655381604679313,0 108.0355440422632,-6.656288728219367,0 108.0373245702976,-6.658170879041736,0 108.0391192123803,-6.660438749099785,0 108.0406357797912,-6.661320641942658,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Surian</name>
+			<styleUrl>#msn_ylw-pushpin19</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							107.8391573758495,-6.662859928488612,0 107.8462924421277,-6.665607699628084,0 107.8556084432842,-6.668099413773489,0 107.8638288533006,-6.668496488690796,0 107.8685046898064,-6.672235035336221,0 107.8730038101296,-6.676303577937648,0 107.878167219543,-6.676310110551063,0 107.8893897556363,-6.671745680080983,0 107.8950002317314,-6.676625350267659,0 107.9023211373123,-6.684907675596736,0 107.9066498943438,-6.687981590579686,0 107.9127819665727,-6.674935580119704,0 107.9157528332957,-6.665683678407825,0 107.9155372240286,-6.659578318339006,0 107.9118538197395,-6.655334945394512,0 107.905513092144,-6.650067908060264,0 107.9041963954604,-6.643544181124734,0 107.9062132114168,-6.638006435414855,0 107.9079715136065,-6.630945540788662,0 107.9079312014122,-6.623286090261255,0 107.908406607411,-6.611443616643979,0 107.9081229393434,-6.59676592810821,0 107.9078284644979,-6.594583501201325,0 107.9003997613477,-6.590219725691725,0 107.8907831471503,-6.586791996726421,0 107.8818355908617,-6.586942817184255,0 107.8766989766774,-6.585560345141536,0 107.8715133964879,-6.583076756158913,0 107.8637123355364,-6.581127796622872,0 107.8583275300897,-6.580381976890268,0 107.8509415095852,-6.582838062057645,0 107.8534571320957,-6.590887115211764,0 107.8564620492952,-6.592583795870978,0 107.8571081057384,-6.594924288651036,0 107.8550017809264,-6.598274235106445,0 107.8526949388829,-6.602072224298701,0 107.8532706662723,-6.60578269299941,0 107.8522836146434,-6.614372945719079,0 107.8539483014661,-6.618041136537511,0 107.853935402091,-6.622431161022501,0 107.8510930241097,-6.629308856241324,0 107.8523517350204,-6.634737006687817,0 107.8534562945121,-6.641254765207751,0 107.8508031337098,-6.64789226565284,0 107.8477667992725,-6.652155855508,0 107.8437392506967,-6.655558408222184,0 107.8403632743156,-6.658279510118107,0 107.8390312184589,-6.660476772704825,0 107.8391573758495,-6.662859928488612,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Buahdua</name>
+			<styleUrl>#msn_ylw-pushpin8</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							107.9080742202136,-6.608600590605017,0 107.9082224674835,-6.618902723322603,0 107.9077728352389,-6.631401884430146,0 107.9062321681627,-6.638671655565506,0 107.9044216769459,-6.643767282863504,0 107.9050386568371,-6.649001532097723,0 107.9071019648384,-6.651779683373146,0 107.9123107186514,-6.655768830730922,0 107.9155555094015,-6.659599707336853,0 107.9160398327134,-6.666579207118075,0 107.9136574381544,-6.673206206937663,0 107.9107545838299,-6.680228097145334,0 107.9065139978295,-6.688053534966491,0 107.9099650308697,-6.693058953815151,0 107.9125285023144,-6.69776800386742,0 107.9129133315785,-6.700977900204826,0 107.916378605763,-6.703839723877753,0 107.9208559014761,-6.704935868910313,0 107.9294825001213,-6.705648075048973,0 107.9305970482195,-6.707031567068528,0 107.9345216607975,-6.718172965349209,0 107.9370528691941,-6.729054108619248,0 107.9394916550079,-6.736854739393889,0 107.9479749685631,-6.746075832927165,0 107.9560741454564,-6.751615079348516,0 107.9613471041209,-6.754841405503646,0 107.9675708265713,-6.757140784353615,0 107.9759013182341,-6.7558542632133,0 107.981873671003,-6.749373004155264,0 107.9899643019993,-6.742805148162637,0 107.9973956687919,-6.735969832880398,0 108.0032753279454,-6.731267914853323,0 108.0094500181488,-6.728054314242889,0 108.0104177538219,-6.725216961905207,0 108.0093883876899,-6.720912319999999,0 108.0063512271343,-6.716017048625392,0 108.0031770577311,-6.713292801981122,0 108.0007156712074,-6.711634115920582,0 107.9947910826173,-6.710313270260038,0 107.9903588946615,-6.708504521929077,0 107.9885146550995,-6.705094285986128,0 107.989019735072,-6.702448396322786,0 107.9909114265755,-6.694534523874694,0 107.994579637565,-6.682000850166818,0 107.9972254742232,-6.676021306100622,0 107.9996534932411,-6.669395213773684,0 107.9995379029158,-6.665477162375353,0 107.9972489815999,-6.661858242829572,0 107.9938209567838,-6.656974536929693,0 107.9921691003216,-6.653543618083708,0 107.9914159106103,-6.65116218490047,0 107.9806702571721,-6.64539965402581,0 107.9784002925039,-6.644307143451903,0 107.975814760282,-6.641325742741931,0 107.9718930938428,-6.637943789530916,0 107.9713970395213,-6.636644784164814,0 107.9664920954059,-6.635488417261271,0 107.9615335312114,-6.634635688252597,0 107.9590112648998,-6.632092466993545,0 107.956016050771,-6.628687070857453,0 107.9532548829985,-6.625710064566213,0 107.9507681917196,-6.623819929669988,0 107.9489860996406,-6.62322145904947,0 107.9457161577293,-6.623769087186748,0 107.9426165090481,-6.623651260039329,0 107.9408381693961,-6.622834760545271,0 107.9367375984187,-6.619462461580744,0 107.9332478788142,-6.614969983129572,0 107.9289277355023,-6.611383857417757,0 107.9264285035436,-6.609056208141892,0 107.9219080447544,-6.605481933078872,0 107.9148913705301,-6.599582409702126,0 107.9101299897565,-6.596443069536424,0 107.9085467615694,-6.594964689374114,0 107.9080742202136,-6.608600590605017,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Tomo</name>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							108.1460302384638,-6.75461299581722,0 108.1445918349566,-6.75683616299848,0 108.1423855517556,-6.757350112868993,0 108.1390139474689,-6.755915410402053,0 108.1350358299271,-6.754967064377152,0 108.1285218502522,-6.751887547905392,0 108.1244975054063,-6.750485746436886,0 108.1216207235492,-6.750151539821295,0 108.1185980743876,-6.752457637860184,0 108.1162959965324,-6.755773644084966,0 108.1128180479133,-6.758524862096406,0 108.1087323043628,-6.760220964943756,0 108.1043741893367,-6.76127290309184,0 108.1010506330372,-6.76134828298177,0 108.1009075998897,-6.765896318756917,0 108.0984782406087,-6.770393966862959,0 108.0922244779249,-6.77657213642058,0 108.0870832034608,-6.778682541592292,0 108.0823477754076,-6.777299414822475,0 108.0822817355938,-6.777611801653203,0 108.0820621185336,-6.778006631573217,0 108.081992288514,-6.778241386577631,0 108.0818473237575,-6.778556113321531,0 108.081703092119,-6.778948008849728,0 108.0816347680339,-6.779182895557772,0 108.0813391910351,-6.779503154168996,0 108.0812005415291,-6.779895315366611,0 108.0809881799806,-6.780367280685591,0 108.080841472728,-6.780527178909544,0 108.0807029774438,-6.780841638987269,0 108.0804919434337,-6.781235723698663,0 108.0802776408724,-6.781552275658411,0 108.0799896339835,-6.781948300483197,0 108.0798375315582,-6.78203060648568,0 108.0795397735029,-6.782349484006667,0 108.0793197126469,-6.782665712970879,0 108.0790220879698,-6.782984439023934,0 108.0788021387887,-6.783300519325433,0 108.078504641358,-6.78361909429123,0 108.0751680691261,-6.788866892403887,0 108.0750909813168,-6.788943710394588,0 108.0748595709419,-6.789174307269216,0 108.0746272830323,-6.789478969447086,0 108.074393741775,-6.789783246731566,0 108.0740828628295,-6.790090840327777,0 108.0739272577049,-6.790244801814213,0 108.0736157158153,-6.790553052547634,0 108.0733817617465,-6.790784527945872,0 108.0731462844807,-6.791090465931627,0 108.0729886619009,-6.79131945544801,0 108.072754833823,-6.791627723389186,0 108.0725309804697,-6.791867597771497,0 108.0723131423877,-6.792262121934782,0 108.0721620261766,-6.792496335192057,0 108.0719317060731,-6.792807965404306,0 108.071699656995,-6.793043275029037,0 108.0714676114843,-6.793506270058745,0 108.0713114810368,-6.793738760401175,0 108.0710771782166,-6.794049931297394,0 108.0709204091712,-6.794358831882671,0 108.0706874234038,-6.794671528494273,0 108.0705364255685,-6.794983789142188,0 108.0703901090432,-6.795374531319426,0 108.0701606838044,-6.795689589753359,0 108.0699357386375,-6.796006549161899,0 108.06972064796,-6.79648006003255,0 108.069663137397,-6.796948773851983,0 108.0695249935234,-6.797342428548191,0 108.0693062594833,-6.797661080906049,0 108.0692492450281,-6.797976001111722,0 108.0690493030881,-6.798375599338965,0 108.0689922634674,-6.798766299194073,0 108.0688557033459,-6.799082251784877,0 108.0687248167279,-6.799399077378945,0 108.0685973671246,-6.799716096403783,0 108.068544935672,-6.800029578440048,0 108.0684234357338,-6.800423085349851,0 108.0683654318114,-6.80073481066284,0 108.0683110754072,-6.801199922200117,0 108.0681654057302,-6.801435964051983,0 108.068107889342,-6.801823705024416,0 108.067989773445,-6.802368243887359,0 108.0679995485018,-6.80252215902269,0 108.0679460331998,-6.802832549568015,0 108.0678967786592,-6.80314270049586,0 108.067854408028,-6.803529076735119,0 108.0678053119045,-6.803838159127251,0 108.0677562904815,-6.804146767023793,0 108.0677292891192,-6.804683742934686,0 108.0676186840567,-6.805145723286722,0 108.0675011864628,-6.805530706270208,0 108.0674446158631,-6.805760947396547,0 108.0673998984046,-6.806219004066601,0 108.0673442442491,-6.806601312361699,0 108.0672166079328,-6.806908866170922,0 108.0671686027221,-6.807289452962025,0 108.0671351624559,-6.807743537120073,0 108.0671004844878,-6.808044206869877,0 108.0669916389474,-6.808346230031989,0 108.0669492582828,-6.808646888833308,0 108.0669748681677,-6.809022337572572,0 108.0668434682044,-6.809327368068989,0 108.0668546085697,-6.809629431634749,0 108.066790643263,-6.809933739440405,0 108.066734497126,-6.810464622990263,0 108.0666675742343,-6.810693380256547,0 108.0666047022512,-6.811149833255542,0 108.0665582864783,-6.811524789687455,0 108.0664468909794,-6.812050677203257,0 108.066461417618,-6.812274597946613,0 108.0664828939867,-6.812648499853344,0 108.0664790350739,-6.813031663836966,0 108.0664801085615,-6.813413411506134,0 108.066497772185,-6.813712269176541,0 108.0665907629625,-6.814008697133888,0 108.0666046768004,-6.81430879295558,0 108.0666958851341,-6.814682214979009,0 108.0667134875515,-6.81820163850482,0 108.0668825593004,-6.818646718987392,0 108.0670434650569,-6.819020036646797,0 108.067197685542,-6.819244005349886,0 108.06743955922,-6.819765593489771,0 108.0675263742929,-6.820063610431,0 108.0677740335366,-6.820658345659193,0 108.0679348952159,-6.820955109062177,0 108.0680925967195,-6.821177102660225,0 108.0683371112915,-6.821697121783396,0 108.0684907720283,-6.822077220601202,0 108.0685609693282,-6.822156757015364,0 108.0687709915164,-6.822474024901871,0 108.0689903871036,-6.822706751382281,0 108.0692167794161,-6.822933943103007,0 108.0694414895362,-6.823085164192611,0 108.0698192218816,-6.823308879351238,0 108.0701223414486,-6.823456173595465,0 108.0706514058306,-6.823676895023496,0 108.0709565024072,-6.823822990018466,0 108.0712561667285,-6.82389654050224,0 108.0715616072159,-6.824042780413934,0 108.0718617076591,-6.824116464944129,0 108.0720883298491,-6.824189900169863,0 108.0723891149503,-6.824263384832905,0 108.072758545377,-6.824422179932398,0 108.0732021069107,-6.824503399124926,0 108.073426522856,-6.82458086007169,0 108.073724931747,-6.824659213430294,0 108.0741681007289,-6.824664327296232,0 108.0745452866316,-6.824818294830028,0 108.0746944403159,-6.824818748172453,0 108.0752994025001,-6.82489008612899,0 108.0756768797503,-6.824966164343936,0 108.0760515032171,-6.824967040403787,0 108.0762047827278,-6.825042704623849,0 108.0769083203846,-6.825490184961465,0 108.0776380783624,-6.825542719199962,0 108.0780753604957,-6.825528336039285,0 108.0786044194438,-6.825587573843928,0 108.0788610678585,-6.825655561131352,0 108.0791245958458,-6.825799768773279,0 108.0794706939209,-6.825940882949587,0 108.0797401633319,-6.826160732346274,0 108.0800880277953,-6.826377491466212,0 108.0807052110932,-6.826888603732257,0 108.0812877113723,-6.827167463606788,0 108.0816671450434,-6.827302298808982,0 108.082226941631,-6.827579875154099,0 108.0825905954758,-6.827790129275241,0 108.082943142424,-6.827774244988387,0 108.0834477575437,-6.827677757970132,0 108.0839140858389,-6.827435166455045,0 108.0840641871243,-6.827354943874162,0 108.0842531766123,-6.827125355050296,0 108.0845606163642,-6.826817888154883,0 108.0848063513378,-6.826434946303295,0 108.0850142394415,-6.826202049282789,0 108.0851427672676,-6.825896055852687,0 108.0856533892657,-6.825577067936393,0 108.0857924396748,-6.825345727378236,0 108.0860846334292,-6.825109216374557,0 108.086300376835,-6.824875163615509,0 108.0866003510969,-6.824562796896502,0 108.0868259912864,-6.824328607615872,0 108.0868957785717,-6.824099539036923,0 108.0872668861373,-6.823709426847868,0 108.0874812653726,-6.823399734264977,0 108.0876179184999,-6.82309240095509,0 108.087992366055,-6.822853288706523,0 108.0882021659353,-6.822543070483834,0 108.0887020507698,-6.822070565597406,0 108.0889876192912,-6.821757143006153,0 108.0891366951663,-6.821676381047975,0 108.089649328707,-6.821279534238619,0 108.0898700049511,-6.821120253050324,0 108.0900960201019,-6.820961685099337,0 108.0904766224212,-6.820723185351527,0 108.0908569831283,-6.820484840113766,0 108.0910845432092,-6.820251645527774,0 108.091389849944,-6.82001641462646,0 108.091624431182,-6.819635121278031,0 108.0918577688132,-6.819329150980019,0 108.0921216325005,-6.819009872949327,0 108.0922536366079,-6.818849833455789,0 108.0924480336028,-6.818533258441115,0 108.0929119740858,-6.818119829803017,0 108.0932517043182,-6.817868234413799,0 108.0935520987271,-6.817204366092124,0 108.0936821049414,-6.81712404337293,0 108.0941557697888,-6.816879687292184,0 108.0947362920973,-6.816630812833378,0 108.0951731380625,-6.81653979141405,0 108.0957526210155,-6.816367176309326,0 108.095962965984,-6.816206556733988,0 108.0963216734047,-6.816040824892808,0 108.096532523346,-6.815879868289666,0 108.0968862914214,-6.815636888979455,0 108.0971776667044,-6.815549907522853,0 108.097458807216,-6.815308931767354,0 108.0978907856022,-6.815062487654652,0 108.098248196192,-6.814818259480452,0 108.0985308045214,-6.81457630706017,0 108.0987383956255,-6.814336689100704,0 108.0990163549249,-6.81409396863917,0 108.0993575353093,-6.813615985835845,0 108.0994873890526,-6.813300577217627,0 108.0997659335948,-6.81297916548392,0 108.0998995315892,-6.812740573760651,0 108.1001088022424,-6.812498947637303,0 108.100324502768,-6.812257641101863,0 108.100542307397,-6.81178456975188,0 108.1008470922274,-6.811464408920656,0 108.1010750352804,-6.811147075730719,0 108.1012228775178,-6.810832132541507,0 108.1014460250386,-6.810514213416899,0 108.1016691837373,-6.810196279891549,0 108.1019707948414,-6.809875808423107,0 108.102271750839,-6.809478207164959,0 108.1024235153277,-6.809318177865123,0 108.1026512718246,-6.80892433239559,0 108.1027963393783,-6.808609054752157,0 108.1030136079208,-6.808136023896241,0 108.1030056984173,-6.807903517084915,0 108.1032311632467,-6.807586246528553,0 108.1034595442041,-6.807269871612194,0 108.1036879226426,-6.807030307634285,0 108.1039948312088,-6.806788362894063,0 108.1044577614545,-6.806541308109565,0 108.1047628200589,-6.806375444495393,0 108.1049194098114,-6.806370455898212,0 108.105377086404,-6.806121622074056,0 108.1059311459063,-6.805953456246233,0 108.1060928100743,-6.805950420540223,0 108.1065773550087,-6.805941324772439,0 108.1073028984994,-6.805927703046175,0 108.1077152724479,-6.806076483459924,0 108.1080362784646,-6.806070166615737,0 108.1083540343968,-6.806138738294919,0 108.1089071946707,-6.806200552002419,0 108.109064185636,-6.806196063894323,0 108.1095415951434,-6.806337410911286,0 108.1099328283581,-6.806325771188288,0 108.1103263038076,-6.80639111502348,0 108.1106391259913,-6.806381798492246,0 108.1111079968453,-6.806443630352858,0 108.1115796020049,-6.806582608309164,0 108.1119732432825,-6.806724014517092,0 108.1124468015635,-6.806939778092532,0 108.1126066618465,-6.80708850689409,0 108.1129223751709,-6.807232352603016,0 108.113160168876,-6.807378644962952,0 108.1133979742831,-6.807524944869404,0 108.1137951591513,-6.807819776021547,0 108.1141135280855,-6.808116705718019,0 108.1143523704226,-6.808339464355735,0 108.1145931913012,-6.808639112285672,0 108.1148340856505,-6.808938855172817,0 108.1150814788903,-6.809317270568504,0 108.1153279273615,-6.809619115906898,0 108.1154994611961,-6.809924399977398,0 108.1157537167835,-6.810457212456152,0 108.1159203795843,-6.810760612822723,0 108.1160892708959,-6.811140922737028,0 108.1160965460207,-6.811371942779007,0 108.1162684154551,-6.811905824173167,0 108.1162762255133,-6.812213546025675,0 108.1164393686959,-6.812439635278847,0 108.1165239626761,-6.812744779538068,0 108.1166129042266,-6.813127431012444,0 108.1166253677338,-6.813512890560118,0 108.1166353385677,-6.813821279669999,0 108.1166484587207,-6.81420683485072,0 108.1165784572799,-6.814517731332576,0 108.11658868625,-6.814980420227297,0 108.116598618488,-6.815289040276662,0 108.1166132821304,-6.8156747563964,0 108.1166231521814,-6.815983381578391,0 108.1167860719015,-6.8162870603492,0 108.1170284437999,-6.816665573547376,0 108.1171121160331,-6.816894800116205,0 108.1173186894846,-6.818589620968982,0 108.1175610919942,-6.818891201588103,0 108.1178032819901,-6.819114860738359,0 108.1179772714209,-6.819572123932665,0 108.1183280353406,-6.820328143849335,0 108.119790489679,-6.82160075117999,0 108.1222863653451,-6.823227331428872,0 108.1247365037935,-6.82445750208264,0 108.1274615961218,-6.826052123118878,0 108.1277733374878,-6.826118565940033,0 108.1308151590266,-6.827725014223714,0 108.1311187261352,-6.82917059940637,0 108.1313443698844,-6.831017731309876,0 108.1310961516863,-6.833564507038806,0 108.1330623605222,-6.835699753023668,0 108.1353375094101,-6.83716695513538,0 108.1385077751053,-6.837869899706732,0 108.1413382320769,-6.838502002569863,0 108.1417820780706,-6.841135373818307,0 108.141627992491,-6.844192428844821,0 108.142729102739,-6.847499049897748,0 108.1440156128317,-6.850027907045189,0 108.1460055032383,-6.8518745663958,0 108.1486129865097,-6.852246354136152,0 108.1538122100579,-6.849973588183078,0 108.1597457446545,-6.846729304078192,0 108.1629069058191,-6.845250284371695,0 108.1711678032615,-6.845246587432525,0 108.1763599336821,-6.846042513446736,0 108.1826867631608,-6.844351278816566,0 108.182183362771,-6.843122653909268,0 108.1814043749547,-6.840200942754988,0 108.1804437867971,-6.838080040875034,0 108.1800361688153,-6.835535075836101,0 108.1775955904055,-6.832821559465688,0 108.1752116532005,-6.831964668966037,0 108.1724566503852,-6.831435586753426,0 108.1698929015117,-6.831756594434269,0 108.1664881902269,-6.832398985948153,0 108.163445568206,-6.832655790661923,0 108.1605960815044,-6.830575909814314,0 108.1578596077927,-6.824875344839812,0 108.1576854510873,-6.822245302601762,0 108.158848958315,-6.819562332682746,0 108.1613587834981,-6.817379630171807,0 108.1621175424088,-6.814855817202854,0 108.1614881564223,-6.812550986644086,0 108.1594975160251,-6.809354067680673,0 108.1571029911328,-6.805621101842242,0 108.1573457382307,-6.801103154516011,0 108.1596813644106,-6.800559916450263,0 108.1620810411609,-6.79985783447149,0 108.165805617126,-6.796065643992037,0 108.1672778772317,-6.793214977380434,0 108.1681306619749,-6.790540799129869,0 108.1690152240082,-6.788878527641787,0 108.170265286468,-6.7865066711322,0 108.1686137740613,-6.781901333018546,0 108.1659777179678,-6.778253995743419,0 108.1643760665967,-6.774884773411189,0 108.163906275896,-6.77165318701026,0 108.1639314131212,-6.767760589923442,0 108.1635827722649,-6.764507040509693,0 108.1630233334324,-6.761806036363588,0 108.1613848367958,-6.759682777678455,0 108.1590883027262,-6.758981311791088,0 108.153892559116,-6.760634130812754,0 108.1520918030849,-6.760693875559627,0 108.1508035508602,-6.759644607531114,0 108.1503678549075,-6.756000741703954,0 108.1510411890278,-6.752789177505648,0 108.1510097778773,-6.750707868182109,0 108.1481467538532,-6.75102455909201,0 108.1460302384638,-6.75461299581722,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Jatigede</name>
+			<styleUrl>#msn_ylw-pushpin9</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							108.1825817126262,-6.844328768884994,0 108.1763308582952,-6.846076392936173,0 108.1709798218677,-6.845227978277099,0 108.1628929988533,-6.845280141661668,0 108.1538712837409,-6.849840925477604,0 108.1487515051893,-6.852205519625427,0 108.1459890326498,-6.851769337115286,0 108.1435596550268,-6.849559743858214,0 108.1418086793489,-6.844245609163987,0 108.1417682330938,-6.841134366044162,0 108.1412784557972,-6.838491342608027,0 108.1382488548979,-6.837850129932956,0 108.1354441586874,-6.837230543976347,0 108.1329685532331,-6.835690964049465,0 108.1311721308992,-6.833416183145223,0 108.1312614550739,-6.831256542080441,0 108.1307661236474,-6.827823368136763,0 108.1266145601452,-6.825599197441286,0 108.1237262355914,-6.824178610944217,0 108.1235073645445,-6.824024126073963,0 108.1232890208017,-6.823870382072858,0 108.1230759195101,-6.82377486804134,0 108.1228085793764,-6.823629300269008,0 108.122649489012,-6.823583736629672,0 108.122434395565,-6.82343576130312,0 108.1221685301562,-6.823342408481181,0 108.121900779789,-6.823196630524893,0 108.1217374871857,-6.823045317893437,0 108.1215216776212,-6.82289629657346,0 108.1213035523878,-6.822693766757126,0 108.1211444682556,-6.822648804120768,0 108.1209286043892,-6.822499863188114,0 108.1207136506002,-6.822353138170874,0 108.1204982177266,-6.822205498246088,0 108.1203347468953,-6.822054140640222,0 108.1201712531385,-6.821902763294081,0 108.118713210711,-6.820914190495905,0 108.1185456689607,-6.820656878044405,0 108.118432691037,-6.820449923676617,0 108.1178578044192,-6.819102462558751,0 108.1177981358225,-6.818895548072445,0 108.1176835355887,-6.818636746827588,0 108.117462718673,-6.818379447362955,0 108.1174061945466,-6.818275699284757,0 108.1172366709419,-6.817964542982242,0 108.1171801777273,-6.817860853375673,0 108.1171730575169,-6.81765057555541,0 108.1171130190378,-6.817441798359925,0 108.1170529563692,-6.817232848867126,0 108.1169382033115,-6.816972628778391,0 108.1167724333849,-6.81676675670513,0 108.1166067466501,-6.816560987310907,0 108.1165996237903,-6.816350540435592,0 108.1166417691685,-6.816033376791206,0 108.1166364244831,-6.815875641643351,0 108.1166293676487,-6.81566604854237,0 108.1166716692206,-6.815350530033077,0 108.1166610207533,-6.815035540940846,0 108.1166574490223,-6.814930389057822,0 108.1166520713303,-6.814772537722735,0 108.1166448931185,-6.814562092086607,0 108.1166377201089,-6.814351762061503,0 108.1166306173697,-6.814141948393842,0 108.1166200197534,-6.81382758684574,0 108.1165619342691,-6.813672044162777,0 108.1165530911461,-6.813410031649312,0 108.1164932489204,-6.813202137364844,0 108.1164334198639,-6.812994298164519,0 108.1163736005578,-6.812786529143239,0 108.1162610286864,-6.812580484524956,0 108.1162012195881,-6.812372649210029,0 108.1160886723035,-6.812166650205366,0 108.1160798849379,-6.811904789397844,0 108.1160710998342,-6.811643046160331,0 108.116064063958,-6.811433709748043,0 108.1160534886688,-6.811119712560879,0 108.1159954845362,-6.810964442816403,0 108.1158829808139,-6.810758515913365,0 108.1158214619476,-6.810498610096135,0 108.1157089427551,-6.810292644082011,0 108.1156491479366,-6.810084955706152,0 108.115536460214,-6.809878538638019,0 108.11542354631,-6.809671569640168,0 108.1152579928097,-6.809466750349803,0 108.1151470066794,-6.809312719910182,0 108.1149321114527,-6.809214402390325,0 108.1147666291687,-6.8090099020136,0 108.1146014655422,-6.808805999321598,0 108.114489131641,-6.808600419181323,0 108.1142729771169,-6.80845063275131,0 108.1141079671469,-6.80824690954137,0 108.1139991002853,-6.80814594204058,0 108.1138869230106,-6.807940576879045,0 108.1137236983143,-6.807789205535556,0 108.1135076117272,-6.807639363123723,0 108.1132914814351,-6.807489433700948,0 108.1130225812331,-6.807341191021607,0 108.1118382368591,-6.806647235933256,0 108.1116238057004,-6.806549537757753,0 108.1114125834424,-6.806556194523944,0 108.1111997370125,-6.806510668494735,0 108.1082622454242,-6.805915641728883,0 108.1079950178282,-6.805922182751828,0 108.1077797615239,-6.805926482130708,0 108.1075643065334,-6.805930784984409,0 108.1072407563033,-6.805937248524216,0 108.1070248103227,-6.805941561377129,0 108.1068086627993,-6.805945877425279,0 108.1065950784759,-6.806003428751471,0 108.1063243983567,-6.806008864964076,0 108.1060534079529,-6.806014307503398,0 108.1056220396335,-6.806076354872158,0 108.1054611735247,-6.806132598959822,0 108.1053014655275,-6.806137705983876,0 108.105090899806,-6.806197579199012,0 108.1048827440777,-6.806310502932909,0 108.1046746173944,-6.806423412408908,0 108.1044132813618,-6.806538012138666,0 108.1042039272031,-6.806650332110248,0 108.1040472510157,-6.806760723329324,0 108.1038388807291,-6.80692550817251,0 108.1036821510798,-6.807035938876871,0 108.1034720104864,-6.807148052295383,0 108.1033182299907,-6.807363841588328,0 108.1031634292073,-6.807579357627708,0 108.1030618144268,-6.807740995383623,0 108.1029089445606,-6.807957227273984,0 108.1028627461286,-6.808170052801399,0 108.1028173146554,-6.808383080787001,0 108.1027739375639,-6.808648929097419,0 108.1027283968035,-6.808861882711362,0 108.1027357293305,-6.809073004152157,0 108.1026343926147,-6.809287207028397,0 108.1020058533255,-6.809729842510178,0 108.099910788155,-6.81267735996538,0 108.0994223937951,-6.813398792982663,0 108.0991142400366,-6.814113902665879,0 108.0986197899633,-6.814483289587551,0 108.0979475896428,-6.814682859892454,0 108.0972843862534,-6.815057534033945,0 108.096630244261,-6.815606938007182,0 108.0959769604436,-6.816155619200586,0 108.0954937722249,-6.81652280080738,0 108.0948498092252,-6.816720147228947,0 108.0938719613629,-6.81675375762679,0 108.093412865308,-6.817293410447149,0 108.0929642282705,-6.818006127391437,0 108.0925068195907,-6.818543620485236,0 108.0920502511633,-6.819080132880627,0 108.091730503973,-6.819465615331811,0 108.091369675937,-6.819991259919633,0 108.0908194576002,-6.820489348736447,0 108.0898839796002,-6.821238456923701,0 108.089199408959,-6.821783172214854,0 108.0886821578801,-6.822148541549721,0 108.0879974790745,-6.822693342710979,0 108.0874954511468,-6.823231437293663,0 108.0869348210549,-6.824061432987305,0 108.0868087636817,-6.824314442654227,0 108.0860091763301,-6.825163542948595,0 108.0856419308466,-6.825562180919416,0 108.0851819599901,-6.825872517141395,0 108.0841213240668,-6.827333865759647,0 108.0834398001103,-6.827676087025942,0 108.0835143710187,-6.827876223829729,0 108.0839438227067,-6.828547833342467,0 108.0840073015103,-6.829233223714794,0 108.0835228516968,-6.829940445540042,0 108.0834198868227,-6.83080290032036,0 108.083269211487,-6.831152193755685,0 108.0837136528792,-6.831989724258712,0 108.0844783669982,-6.832472391430109,0 108.0850680745841,-6.833134316294114,0 108.087129687145,-6.835890571772995,0 108.0873028960704,-6.835884813083611,0 108.087826422442,-6.836725594307779,0 108.0881754190706,-6.837229240092941,0 108.0885190926358,-6.837904516257935,0 108.0889758492222,-6.838570646384422,0 108.0892861114212,-6.838901210507232,0 108.0897449991195,-6.839570270554015,0 108.090212577805,-6.840068648258635,0 108.0906754664175,-6.840394917985759,0 108.0912889964072,-6.840715391605607,0 108.0919045647488,-6.841036926488577,0 108.0923556218081,-6.841539590677496,0 108.0931262501024,-6.842031913081577,0 108.0937559113488,-6.842182632214888,0 108.0946756186549,-6.842328351990523,0 108.0954337282904,-6.842305223298381,0 108.0962149165476,-6.842456524782343,0 108.0973465270399,-6.842421732824918,0 108.0982631727256,-6.842218889078558,0 108.0989670493465,-6.841848081773463,0 108.0996471906107,-6.841303286260945,0 108.1003063465651,-6.840757677851182,0 108.1011016081893,-6.840029970770797,0 108.1014116797325,-6.839668356746969,0 108.102032937983,-6.838943827033813,0 108.1023441286701,-6.838580904871264,0 108.1032263532094,-6.838551998026652,0 108.1039160092684,-6.838527467393042,0 108.1047786393582,-6.838496781552693,0 108.1054692057664,-6.838472208813062,0 108.1061810497633,-6.838623726508964,0 108.106907935308,-6.838950680486195,0 108.1074753246363,-6.839458687444695,0 108.1082012896315,-6.839785156951248,0 108.1089561867977,-6.840461267420422,0 108.1096955537093,-6.840961834663364,0 108.11010094572,-6.841648059709275,0 108.1101440564573,-6.842170790129978,0 108.1102014524602,-6.84286671304998,0 108.1102510789346,-6.843909625327526,0 108.1102615748699,-6.844431481397229,0 108.11030034759,-6.845125952930231,0 108.1105182214853,-6.845813724869108,0 108.1105588008124,-6.846506851198386,0 108.1107763478888,-6.847193296567899,0 108.1110037574275,-6.848051932575375,0 108.1110541403636,-6.848915689365671,0 108.1110943916289,-6.849606014222352,0 108.1113199566859,-6.850462098196244,0 108.1113534336271,-6.851152546265263,0 108.1119300761481,-6.851994744874881,0 108.112120627145,-6.852508344781445,0 108.1124944430511,-6.853188325801073,0 108.1125070400217,-6.854058551092581,0 108.112316410124,-6.854769707374037,0 108.1117728308278,-6.855670550052542,0 108.1098294950177,-6.861271109391933,0 108.109677515971,-6.861971237947957,0 108.1095255233614,-6.862671381116464,0 108.1091736010978,-6.863364934641188,0 108.10880891246,-6.864224610104619,0 108.1086323733622,-6.864572269613571,0 108.1086454661342,-6.865435055902205,0 108.1086585639597,-6.866298503090627,0 108.1084870063301,-6.866992896013981,0 108.1085000494527,-6.867857667994128,0 108.1081480049716,-6.868557523685541,0 108.107976589733,-6.869081770198778,0 108.1076715171767,-6.86979865977386,0 108.1071821023384,-6.870345376019384,0 108.1065214933876,-6.870898557960122,0 108.106033084868,-6.871444242696466,0 108.1055350015667,-6.871814283410918,0 108.1050253690623,-6.872353455214771,0 108.1043293071867,-6.872723163344803,0 108.103460593909,-6.873272195424571,0 108.1025850116573,-6.873474353599832,0 108.101885062099,-6.873670817357248,0 108.1011849900838,-6.873867314502561,0 108.1001301144735,-6.873901750403287,0 108.0994306317161,-6.873925466957457,0 108.0987312056425,-6.87394917918744,0 108.0980300477507,-6.873799555539946,0 108.0973340291237,-6.873823893081434,0 108.0964511826543,-6.873505919197245,0 108.0957318296214,-6.873006892562446,0 108.0950151236434,-6.872681270501496,0 108.0942804826942,-6.872178983412039,0 108.0935633920879,-6.872026094816828,0 108.0926869791587,-6.872228308222891,0 108.0921737063228,-6.872594386528704,0 108.091669537633,-6.873135216743879,0 108.0917058043578,-6.873834089783716,0 108.0917342824021,-6.874531400247197,0 108.0914047734454,-6.87523913983572,0 108.0909049600469,-6.876126770432611,0 108.0903941032965,-6.876666316206172,0 108.0897019164169,-6.877037578858526,0 108.0890151671012,-6.877582973939922,0 108.0883173815916,-6.877780188039782,0 108.087449207019,-6.878157314168311,0 108.0871194330681,-6.878865384420378,0 108.0871413359434,-6.879561930312399,0 108.0873390873105,-6.880252713982216,0 108.0875368496789,-6.880943524756609,0 108.0879104669097,-6.881628553730951,0 108.0884489793762,-6.881959462859015,0 108.089163337114,-6.882284558912516,0 108.0900480083175,-6.88242967519861,0 108.0909271220882,-6.882400631233157,0 108.0918006822511,-6.882197440484501,0 108.0924873561473,-6.881651802711879,0 108.0931739731598,-6.881106210854629,0 108.0936847512584,-6.880566464802985,0 108.094371258476,-6.880020963734887,0 108.0952406463822,-6.879817597369899,0 108.0959366136115,-6.879793869067801,0 108.096637699032,-6.879944228789847,0 108.0971598860079,-6.879926436996502,0 108.0978612475232,-6.880076840511769,0 108.0985627712659,-6.880227279846283,0 108.0992644605596,-6.880377753474176,0 108.1001355278877,-6.880348133361385,0 108.1006633127732,-6.880504577640874,0 108.1013705266567,-6.880829379253435,0 108.1020779455478,-6.881154266543169,0 108.102626363591,-6.88200807888551,0 108.1028311845745,-6.883048252693329,0 108.1030259049183,-6.883739898720118,0 108.1030512806349,-6.884611913184071,0 108.1030715906019,-6.885309628096828,0 108.1031075333624,-6.886006844466667,0 108.1029658033242,-6.886709634764396,0 108.1028241230892,-6.887412120468577,0 108.1025043775821,-6.888120343408579,0 108.1021782892452,-6.88882894307694,0 108.1015125282902,-6.889897724978757,0 108.1013618960958,-6.890600420792635,0 108.1006835267343,-6.891320728218398,0 108.0957591008968,-6.896368565898544,0 108.0971052328456,-6.899460983333245,0 108.1043800216924,-6.910120747960522,0 108.1045673334892,-6.910983475695203,0 108.105134190527,-6.911664355310515,0 108.1056864943413,-6.912864313956773,0 108.1058758143673,-6.913380616394601,0 108.1064375067377,-6.914060565257863,0 108.1066476920193,-6.914751877481306,0 108.1068578063035,-6.915442953737586,0 108.1068748328095,-6.916138949068233,0 108.1068740929763,-6.91683459818725,0 108.107066844897,-6.917525230408585,0 108.1074417102752,-6.91821021182236,0 108.1078190926145,-6.918895166741819,0 108.1081964375141,-6.919580056651451,0 108.10874319566,-6.92008492679394,0 108.1094745224976,-6.920583633759598,0 108.1100217899749,-6.921088309156436,0 108.1107303310077,-6.921413399119246,0 108.1114530640011,-6.92208662595008,0 108.1120077290632,-6.92276523050769,0 108.11274417547,-6.923262846951964,0 108.1133123490497,-6.923939845613871,0 108.1140582720782,-6.924610295895352,0 108.1144310276296,-6.924945336905771,0 108.115176140789,-6.925615045565629,0 108.1157406980003,-6.926290753154625,0 108.1161209413519,-6.926973235799933,0 108.1166754931558,-6.92764984444221,0 108.1172265069487,-6.92832690578012,0 108.1177708704673,-6.928830320124092,0 108.1184900724812,-6.929327912839262,0 108.1190409438998,-6.930004823215616,0 108.1195851994575,-6.930508125971122,0 108.1199545872599,-6.931017177995895,0 108.1205053293079,-6.931693932237846,0 108.1210567318976,-6.932370439126315,0 108.1212504910074,-6.932885322174605,0 108.1216322441169,-6.933741324206665,0 108.1223624399285,-6.934586053099466,0 108.122725428067,-6.934921296266035,0 108.1230995087518,-6.935604043070645,0 108.123468019713,-6.936113005873264,0 108.1240179772235,-6.93678952479025,0 108.1243920081398,-6.937472191661537,0 108.1249363538439,-6.937974868825846,0 108.1254862159085,-6.93865125811471,0 108.1260304644899,-6.939153843278387,0 108.1264030629547,-6.939660695141106,0 108.1269672223374,-6.94032997013321,0 108.1276933287698,-6.940822745473239,0 108.1284189789601,-6.94113892039931,0 108.129373474954,-6.941596331242709,0 108.129926712242,-6.941915342220663,0 108.1308319519385,-6.942396675631897,0 108.1315310655315,-6.942725444989199,0 108.1322520914557,-6.943041215576954,0 108.1331321477598,-6.943006967424066,0 108.1338359117211,-6.942979579361067,0 108.134540331946,-6.943128363001184,0 108.1354023514428,-6.943105496034755,0 108.1362859009981,-6.943068296765979,0 108.1368019546753,-6.942701585308398,0 108.1376830651384,-6.942665605417223,0 108.1383811946066,-6.942464388189757,0 108.139083339979,-6.942260184186743,0 108.1399397424312,-6.942064280599161,0 108.140807553002,-6.942037321296315,0 108.1416755119867,-6.942010356514562,0 108.1422037172693,-6.942165859274921,0 108.1428975054842,-6.942322449065074,0 108.1436093707628,-6.942820000299252,0 108.1443241409046,-6.943315174091977,0 108.1448906536195,-6.943970430551687,0 108.1454499816837,-6.94463084879366,0 108.1460003928717,-6.945120510155922,0 108.146558637416,-6.9457797225182,0 108.1469413149938,-6.94644544344128,0 108.1474904987181,-6.946933488804498,0 108.1480469552026,-6.947591154435505,0 108.1484201830942,-6.94808587284533,0 108.1493253089738,-6.948727213455348,0 108.149513488247,-6.949061526206087,0 108.1502236441941,-6.949555901343271,0 108.1509337601519,-6.950050456772617,0 108.1514717517867,-6.950548953382547,0 108.1523328523649,-6.950529445175989,0 108.153194664219,-6.950509595967152,0 108.154050240745,-6.950319021219351,0 108.1549133486484,-6.950298581195828,0 108.1555972322238,-6.950111950311045,0 108.1582215709733,-6.946462115256582,0 108.1575214944892,-6.942029201752611,0 108.1533360102516,-6.936257054441163,0 108.1497586887181,-6.932197274891632,0 108.1502151014596,-6.923212667499385,0 108.1501956131134,-6.922763917569069,0 108.1502490750475,-6.922237583144514,0 108.1502344624099,-6.921938581168658,0 108.1503062011557,-6.921785884288823,0 108.1503669915207,-6.921408884652024,0 108.1506087377108,-6.921021878544552,0 108.1508454887319,-6.92078673882691,0 108.1511500642762,-6.920550454787103,0 108.1515300396882,-6.920311771424734,0 108.152100524235,-6.920070792752695,0 108.1523145742153,-6.919914493743315,0 108.1528553542165,-6.919669472067014,0 108.1530876523016,-6.919585934119208,0 108.1534788539211,-6.919571459771502,0 108.1537915670312,-6.919559888560456,0 108.1543408605067,-6.919614379505483,0 108.1546555441784,-6.919677497396584,0 108.1549683952999,-6.919665762796425,0 108.1553637948906,-6.919650427105126,0 108.1557503215875,-6.91978630300937,0 108.1561278375097,-6.919848522401248,0 108.1563565438842,-6.919915511868506,0 108.1568906548191,-6.920046714569732,0 108.1573440276581,-6.920031276446081,0 108.1580476741446,-6.920153959786178,0 108.1587272777168,-6.920205746570589,0 108.1591008258197,-6.920268601205762,0 108.1592529510688,-6.920338253685936,0 108.1596266599821,-6.920401141285289,0 108.1599221741688,-6.920392113999181,0 108.1604593434585,-6.920597517384839,0 108.1607000353248,-6.920736858051509,0 108.1610999810065,-6.920943993418995,0 108.1613401388505,-6.921083036553435,0 108.1617376538462,-6.921290092162598,0 108.1621421454708,-6.921494896637251,0 108.162626591757,-6.921770115544777,0 108.1629495033615,-6.921978080517328,0 108.163262722608,-6.922113671475662,0 108.1637342386366,-6.922391081732768,0 108.1642890336892,-6.92258754232256,0 108.1647679268102,-6.922786080828697,0 108.1650035576309,-6.922849020871074,0 108.1655502693856,-6.922971578843542,0 108.165862043112,-6.922956101829071,0 108.1661797478,-6.923012816395175,0 108.1666804661316,-6.923078152688339,0 108.1670381032343,-6.923071708438938,0 108.1672529444644,-6.923067837036817,0 108.1677550069171,-6.923058789555359,0 108.1683301064942,-6.923048425659772,0 108.1685451714926,-6.922969732853894,0 108.1689829528203,-6.92280890810844,0 108.16935420123,-6.922722129752422,0 108.1699471137329,-6.922403172540934,0 108.1700922782147,-6.922324832490631,0 108.170381447572,-6.922093439721619,0 108.1708908688995,-6.921856221213949,0 108.1711780271208,-6.921700924722395,0 108.171539319576,-6.921618723785217,0 108.1719034261197,-6.921535345742329,0 108.1722681129813,-6.921376337561663,0 108.172771139848,-6.921217636004248,0 108.1731401998498,-6.921207783747502,0 108.1734356837604,-6.921199895164259,0 108.1740272426974,-6.9211841194288,0 108.1744007628089,-6.921172462783711,0 108.1746988591206,-6.92116356880072,0 108.1749905492005,-6.921082355760137,0 108.1753562111217,-6.920999386182937,0 108.1755709714033,-6.920845817524461,0 108.1759926541416,-6.92069535982932,0 108.1764115086588,-6.920470500278581,0 108.1767606505371,-6.920244783673313,0 108.1770457307174,-6.920014800794874,0 108.1775720493619,-6.919846263875808,0 108.1778721657974,-6.919684506768772,0 108.1781701345396,-6.919600784553209,0 108.1786161359739,-6.919437456003305,0 108.1789875746174,-6.919275934148462,0 108.1794324032156,-6.919036528101723,0 108.1819459877941,-6.916023820246701,0 108.1822118643547,-6.915693542236462,0 108.1824229508163,-6.915054637291239,0 108.1825123634794,-6.914743495565248,0 108.1825920556463,-6.91443702033717,0 108.182787480407,-6.913913773596507,0 108.1829339886226,-6.913258349322081,0 108.1829882621089,-6.913112796994282,0 108.1831041376331,-6.912894121652745,0 108.1834267526846,-6.91267471549317,0 108.1838126100987,-6.912381065091775,0 108.1839509534401,-6.912380729365959,0 108.1842974164494,-6.91237988834728,0 108.1845890388056,-6.91252621611311,0 108.1848183118482,-6.912746296276837,0 108.1851173531686,-6.912966454401039,0 108.1853469058164,-6.913186787254984,0 108.1855687199813,-6.91333428520708,0 108.1857941697815,-6.913633256645916,0 108.1861646240958,-6.91385423106543,0 108.1865224800793,-6.914005225240842,0 108.1868811871984,-6.914156576083181,0 108.18709823563,-6.914231463732858,0 108.1873966872422,-6.914378285242465,0 108.1877683524542,-6.914524485427981,0 108.1879908576853,-6.91459727840034,0 108.1882866033276,-6.914669381141309,0 108.1886522192722,-6.914665628501661,0 108.1889430281546,-6.914663823206824,0 108.189304895073,-6.914662865413481,0 108.1896831013436,-6.914730113354559,0 108.1900384758504,-6.914767247874221,0 108.1905582626077,-6.914944729309571,0 108.1908144148084,-6.915150504984743,0 108.1912265746275,-6.915270443015719,0 108.1916477463613,-6.915459832722418,0 108.1919628382959,-6.915595097516898,0 108.1922776814689,-6.915730254132482,0 108.1926593642067,-6.915869425337333,0 108.1929531243088,-6.915943724335062,0 108.1932404811207,-6.915946313212163,0 108.1936822880944,-6.915942136597808,0 108.1939788469442,-6.915937989254315,0 108.1944828356604,-6.915788943929751,0 108.1947047741377,-6.915786808943165,0 108.1950743108529,-6.915783954426798,0 108.1954377388757,-6.915709226791858,0 108.1956535361678,-6.915635518661649,0 108.1960184692687,-6.915560286881718,0 108.1962287803439,-6.915414033641123,0 108.1965829285846,-6.91519321599859,0 108.1968783727222,-6.915115075971415,0 108.1972490935919,-6.915036075319868,0 108.1974704572381,-6.914958480223181,0 108.1977637054924,-6.914804629367256,0 108.2014670030516,-6.912528496595999,0 108.2069273003902,-6.907928225847381,0 108.2106644764672,-6.90346759074336,0 108.2122038860304,-6.901013436285954,0 108.2127549735456,-6.899537104914355,0 108.2133727990853,-6.897669548675168,0 108.2138197995502,-6.895487916358181,0 108.2140962893171,-6.893454634407071,0 108.214016860026,-6.892535466255384,0 108.213649574571,-6.89031391587249,0 108.2128243571064,-6.889264311698001,0 108.211580273365,-6.888962566763644,0 108.2106357262967,-6.888749053654884,0 108.2096648620912,-6.889222415275178,0 108.2074564867227,-6.890811598916063,0 108.2049616047078,-6.891443018529865,0 108.2024453651153,-6.891166952905235,0 108.2002121239742,-6.890559415877894,0 108.1974395722298,-6.888650824962471,0 108.1948850910218,-6.886660223513249,0 108.1937283724927,-6.884934518680836,0 108.1932803245509,-6.883522641301716,0 108.1934390362351,-6.882285348522397,0 108.1940237714813,-6.880492914491898,0 108.1961128563926,-6.877616871629871,0 108.1992255139114,-6.872946192370082,0 108.1993591003695,-6.871015649533807,0 108.1977282067523,-6.867048863008902,0 108.194076157421,-6.863377250091354,0 108.1912191888125,-6.862980056780558,0 108.1896622579097,-6.862468502025116,0 108.1890774141036,-6.860777787480045,0 108.1890807478658,-6.859848908469903,0 108.1899153883918,-6.857916325113258,0 108.1895859327789,-6.85492510123895,0 108.1880716228458,-6.852557795334599,0 108.1832934842712,-6.85310579814036,0 108.1823989166105,-6.852493023863627,0 108.1819804220462,-6.851108576960119,0 108.1825396636009,-6.847405308491206,0 108.1826250567829,-6.847171705699859,0 108.1826635105673,-6.846939216324867,0 108.1826547358474,-6.846707382590939,0 108.1825817126262,-6.844328768884994,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Jatinunggal</name>
+			<styleUrl>#msn_ylw-pushpin15</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							108.206783226342,-6.908115272673399,0 108.2060671146156,-6.908619724868523,0 108.2018241753647,-6.912302591856919,0 108.2011602764212,-6.91266599934694,0 108.2011313406395,-6.912696053838808,0 108.2010121966947,-6.91275669792957,0 108.2008909509565,-6.912787937137486,0 108.2007703678821,-6.912850335475738,0 108.2006805008834,-6.912912199333093,0 108.2005608747558,-6.913004893439676,0 108.2004074692178,-6.913070675709567,0 108.2002537018419,-6.91313712018978,0 108.2001611887243,-6.913170807783909,0 108.20000842541,-6.91326798749192,0 108.1998856781012,-6.913333472387167,0 108.1997628579841,-6.913398996234159,0 108.1996410472942,-6.913495387998791,0 108.19954924577,-6.913561137847907,0 108.1994272018376,-6.913660212960993,0 108.1993064068278,-6.913790402184774,0 108.1991836928721,-6.9138577814465,0 108.199093337613,-6.913954756206844,0 108.1989708585713,-6.914021788991661,0 108.198849586799,-6.914119795410013,0 108.1987595608405,-6.914216551642508,0 108.1986385821975,-6.914314413334471,0 108.1985177573192,-6.914412150424111,0 108.1983959812866,-6.914478822923814,0 108.1982433999347,-6.914546598614006,0 108.1981219343916,-6.914613110304276,0 108.1979994416537,-6.914648639267548,0 108.1978781844052,-6.914714978323456,0 108.1977558751828,-6.91475038331444,0 108.1976052294236,-6.914848566531256,0 108.1974843847536,-6.9149146883086,0 108.197363667794,-6.914980739406148,0 108.1972418577557,-6.915015949181397,0 108.1970912687948,-6.915083178360337,0 108.196970598375,-6.915118552815482,0 108.1968501223948,-6.91515386995942,0 108.1967282815987,-6.915158393241283,0 108.1966100935165,-6.915224408574772,0 108.1964909300933,-6.915259693886198,0 108.1963742952155,-6.915325624044739,0 108.1962580044276,-6.915391359115785,0 108.1961721873917,-6.915455820759703,0 108.1960589158445,-6.915551662960879,0 108.1959712041904,-6.915585293100321,0 108.1958561222786,-6.915650281455062,0 108.1957382398903,-6.915684760476498,0 108.1956205609052,-6.915719179070292,0 108.1955005942058,-6.915723294960912,0 108.195347871429,-6.915698176489516,0 108.1952248409272,-6.915672019646745,0 108.1950743712162,-6.915677160658149,0 108.1949516627543,-6.915651022571288,0 108.1947735802894,-6.915657281064732,0 108.1946550516034,-6.915661446002183,0 108.1945391013708,-6.915695776913758,0 108.1944009487654,-6.915821344864702,0 108.1942583974642,-6.915886449308667,0 108.1941750398242,-6.915949399580047,0 108.194028540437,-6.915954330652886,0 108.1939111213353,-6.915958279498195,0 108.1937933717796,-6.91596223550434,0 108.1936463593468,-6.915967174409551,0 108.1935288894008,-6.915971121120759,0 108.1933530335601,-6.915977030608984,0 108.1932380404203,-6.915980909915115,0 108.193093929556,-6.91598576624478,0 108.1929746262182,-6.915959919923265,0 108.192855390324,-6.91593408844961,0 108.1927362252176,-6.915908271420651,0 108.1925895348401,-6.915883449916496,0 108.1924724261996,-6.915857663075378,0 108.1923518947612,-6.915802157695246,0 108.1922031011067,-6.915747692350454,0 108.1920826995752,-6.915692243677332,0 108.1919608191495,-6.915636779683715,0 108.1918246280305,-6.915521354896067,0 108.1917262431777,-6.915464497498489,0 108.191572724299,-6.91543958592497,0 108.1914451533624,-6.915383664520077,0 108.1913174064791,-6.91532766614277,0 108.1911743154839,-6.91524070181492,0 108.1909955852876,-6.9151539437961,0 108.1908536541258,-6.915096319835398,0 108.190746163469,-6.915037852732142,0 108.1906122445505,-6.914980621536238,0 108.1904680182208,-6.914922238404283,0 108.1892208282011,-6.914644636422702,0 108.1881689959307,-6.914633101978995,0 108.1871511139586,-6.91425393341686,0 108.1862690629813,-6.913905810329641,0 108.1857429797286,-6.913574453662625,0 108.1857083657403,-6.913485465522085,0 108.1856131922504,-6.913339356759031,0 108.1855224212716,-6.913253778861345,0 108.185459729009,-6.913166494159414,0 108.1853153102058,-6.913114817376835,0 108.1851968369548,-6.913031222863507,0 108.1851063751379,-6.91294590913364,0 108.1850159713793,-6.912860650343891,0 108.1848955217651,-6.912747055144538,0 108.1848052524151,-6.912661921987951,0 108.1846896306859,-6.91260900240964,0 108.1846018580642,-6.912554245547434,0 108.1844821423055,-6.912441136820209,0 108.1843879169017,-6.91232520422316,0 108.1842689709191,-6.912270976390167,0 108.1841576667511,-6.912307671659928,0 108.1840504416136,-6.912345908916406,0 108.1839402152187,-6.912353563437827,0 108.1838027429396,-6.91236311060212,0 108.1836971146681,-6.91240145055314,0 108.183627352112,-6.912499093802835,0 108.1835222802055,-6.912537136704043,0 108.1834216628097,-6.912605586433508,0 108.1833213780184,-6.912673809989595,0 108.1831943679741,-6.912743604652852,0 108.1831260484675,-6.912839854390491,0 108.1830331877116,-6.912967015130391,0 108.1829907556539,-6.91308918114646,0 108.1829484268201,-6.913211047345763,0 108.182932609702,-6.913330877302528,0 108.1828904433826,-6.913452183924259,0 108.1828773710861,-6.913600912821201,0 108.1828590312125,-6.913719381421361,0 108.1828389085426,-6.913837299607252,0 108.1828117253843,-6.913953656889649,0 108.1827572760297,-6.914071398557472,0 108.1827028196027,-6.914160365977459,0 108.1826784071266,-6.914277272893283,0 108.1826852512422,-6.914422305327024,0 108.1826319366009,-6.914540166904101,0 108.1825979487073,-6.914655732409153,0 108.182535315019,-6.914772540104702,0 108.1824711903131,-6.914918287209908,0 108.1824083422981,-6.915035510790603,0 108.182119646942,-6.91579490094692,0 108.179644710886,-6.918837105576912,0 108.1792529893913,-6.919171517230647,0 108.1784290764579,-6.919498332093527,0 108.1770897149044,-6.919961944183267,0 108.17604151475,-6.920630242192258,0 108.1747483589472,-6.921154684079662,0 108.1729453810243,-6.921178234960804,0 108.1724398227303,-6.921362243387336,0 108.1716443872939,-6.921585626709891,0 108.17111091381,-6.921683628137037,0 108.1695025545405,-6.922594610190211,0 108.1684971198914,-6.922916854816691,0 108.1684681927743,-6.922917652081859,0 108.1683522338682,-6.922919078199714,0 108.16820750802,-6.922920774096513,0 108.1680630455218,-6.922922466930485,0 108.167949647391,-6.922982178571204,0 108.1678353654998,-6.923012659954503,0 108.1677221620807,-6.923072279681713,0 108.167579391894,-6.923102986940077,0 108.1674359321093,-6.923104508846391,0 108.1673212732706,-6.923106290609966,0 108.1671782502695,-6.923107860462745,0 108.1670641476899,-6.923108474758632,0 108.1669218053867,-6.92310924106687,0 108.166778968678,-6.923081094757898,0 108.1666640042154,-6.923023986229615,0 108.1665488687677,-6.922968221767818,0 108.166434638012,-6.922941463864442,0 108.1663205830224,-6.922945177393165,0 108.1661763482784,-6.922923008549625,0 108.1659746938749,-6.922903111988775,0 108.1658032713657,-6.92290904187553,0 108.1656891211077,-6.922912764118959,0 108.1655747294491,-6.922916861949366,0 108.1654313774129,-6.922922466832922,0 108.1652869767381,-6.922929399967419,0 108.1651697516912,-6.922907355476738,0 108.165052353452,-6.922885278045491,0 108.1649030410328,-6.922808591144784,0 108.1647841910612,-6.922758008305771,0 108.1646651591253,-6.922707348154184,0 108.1645477174116,-6.922684332399024,0 108.1644283509001,-6.922633550312534,0 108.1642798065807,-6.922583857474846,0 108.1641619163138,-6.92256072839095,0 108.1632566017386,-6.92214795802069,0 108.1619155737945,-6.921428122351658,0 108.1606544046189,-6.920751844393787,0 108.1605615279347,-6.920697053026411,0 108.1604059516478,-6.920586204976906,0 108.1603144386402,-6.920501800141953,0 108.1602248508843,-6.920475667424976,0 108.1601039004256,-6.920392229256444,0 108.1599533520014,-6.920309779243161,0 108.1598054226043,-6.920314785229032,0 108.1596577475826,-6.920319762803883,0 108.1595691395623,-6.920322749025713,0 108.1593918889405,-6.920328722128789,0 108.1592729636128,-6.920303522192012,0 108.1591540249478,-6.920278319606578,0 108.1590358003854,-6.920282298792646,0 108.1588872703058,-6.920258085771868,0 108.158741400168,-6.920262894662144,0 108.1565740039988,-6.919927338204537,0 108.1564010450772,-6.919976417519591,0 108.1561837230444,-6.919983598240061,0 108.1559211922655,-6.919905595314111,0 108.1557021100055,-6.919826236806704,0 108.1555245206103,-6.91974575638322,0 108.155257428588,-6.919755208102311,0 108.1550364716005,-6.919762846302241,0 108.1548149369294,-6.919683637547244,0 108.1546365227918,-6.919602993176143,0 108.1544580375082,-6.919522316560951,0 108.1542816861534,-6.91952825395483,0 108.1540622615259,-6.919535604490576,0 108.1538868840026,-6.91954147239946,0 108.1537114588441,-6.919547342005384,0 108.1535367730256,-6.919596591351837,0 108.1533167099204,-6.919603983306514,0 108.1530973249054,-6.919654786266572,0 108.1529663982743,-6.919702619174245,0 108.1527891434637,-6.919708632454237,0 108.1526137375848,-6.919758008784857,0 108.1524402187515,-6.919850772511324,0 108.1522666304096,-6.919943574611534,0 108.1520940935474,-6.920079877560874,0 108.1519212621687,-6.920216275274469,0 108.151747303711,-6.920265595349091,0 108.1515302017338,-6.920359936157225,0 108.1513998164799,-6.920407835569538,0 108.151226247285,-6.920500780947008,0 108.151052726749,-6.920593737708815,0 108.1509239620918,-6.920728810664494,0 108.150795647287,-6.920907597161166,0 108.1507078809513,-6.921041882093232,0 108.1505305974107,-6.921223431771289,0 108.1501613258585,-6.9221965479404,0 108.1501284781785,-6.925354284327519,0 108.1497495473278,-6.932224583024063,0 108.1532084150324,-6.936148457789454,0 108.1574706365665,-6.941982671920103,0 108.1581617729245,-6.946331372355474,0 108.1555388776466,-6.950102181254931,0 108.154357673066,-6.950312666184724,0 108.1532731024224,-6.950546059665458,0 108.1524803290902,-6.950596267770499,0 108.1514797467232,-6.950484928099459,0 108.1495012416941,-6.948989830641643,0 108.1484910263554,-6.948173411975115,0 108.1474415823375,-6.946956254827977,0 108.1461736736285,-6.945353016274446,0 108.1444242735997,-6.943425240127379,0 108.1436983601914,-6.942864785052484,0 108.142697603617,-6.94227420414771,0 108.1415155909848,-6.942054622299145,0 108.1404554961453,-6.942061052585713,0 108.1394646144224,-6.942237041152769,0 108.1377914497282,-6.942618727132149,0 108.1368282486442,-6.942628962784188,0 108.1363126432885,-6.943086159076668,0 108.1344630040658,-6.943143819145382,0 108.1339479906291,-6.943016598554652,0 108.1322358557474,-6.943019632399675,0 108.1300424942822,-6.941985898049298,0 108.1271875216408,-6.94051924324387,0 108.1271252081964,-6.940461833737683,0 108.1270306746956,-6.940345868947841,0 108.1269360963191,-6.940229849583413,0 108.1268123453165,-6.940144707068546,0 108.1267477751989,-6.940027633972672,0 108.1266216341572,-6.939882978531685,0 108.1265288460031,-6.939826604028561,0 108.1264349223843,-6.93974036212715,0 108.1262792185235,-6.939626514400943,0 108.1262467121382,-6.939567910858903,0 108.1260582253539,-6.939395205957431,0 108.126057089671,-6.939365317847517,0 108.1259324137768,-6.939279928256738,0 108.1258356697278,-6.939133535882523,0 108.1257726625134,-6.939075789739404,0 108.1256757651842,-6.938929183536134,0 108.1255495452808,-6.938813474811613,0 108.1254547989178,-6.938726618761222,0 108.1253892250527,-6.938608626258585,0 108.1252943488656,-6.938521629069902,0 108.1251983751984,-6.938404469926126,0 108.1251329755425,-6.938286176416354,0 108.1250687197178,-6.938197922057601,0 108.1250032566598,-6.938079521172408,0 108.1249377610664,-6.937961059399135,0 108.1248104067045,-6.937814414954676,0 108.124714790238,-6.937696856070701,0 108.124620252104,-6.937609417685157,0 108.1244941651788,-6.937492800393445,0 108.1244288817064,-6.937374138998314,0 108.1243635797564,-6.937255445370907,0 108.1242678283006,-6.93713771845843,0 108.1242036049976,-6.937049150356342,0 108.1241382458952,-6.936930364236711,0 108.1240728703407,-6.936811545567727,0 108.1239781492189,-6.936723902024691,0 108.1238822765041,-6.936606017122465,0 108.1237875371305,-6.936518334206643,0 108.1237220459977,-6.936399384477318,0 108.1235957852921,-6.936282454827467,0 108.1235314407086,-6.936193708084426,0 108.1234658679615,-6.936074656422895,0 108.1233711304891,-6.935986905317949,0 108.1233054409412,-6.935867757879187,0 108.1231786568934,-6.935720775081498,0 108.1231467269679,-6.935631927172222,0 108.1230529761569,-6.935514971707531,0 108.1229596580565,-6.935427938246985,0 108.1228971054848,-6.935340102248508,0 108.1228345862156,-6.935252313441542,0 108.1227410379238,-6.935135608030078,0 108.122647438407,-6.935018915058,0 108.1225849386253,-6.934931232112353,0 108.1225233368555,-6.934814570462319,0 108.1224620651242,-6.934698203100698,0 108.1223703120656,-6.934582835987643,0 108.12227866826,-6.934467607073577,0 108.1221838812042,-6.934350445632377,0 108.1220918140688,-6.934235045634242,0 108.1219699236418,-6.934150368276123,0 108.121876204573,-6.934004599434031,0 108.1217826633375,-6.933917693510724,0 108.1216875658603,-6.933800397527124,0 108.1216503170249,-6.933679251158234,0 108.1215503450994,-6.933558515481356,0 108.1215144838581,-6.933467524131151,0 108.1214464524844,-6.933346788302468,0 108.1213792195658,-6.933197202973256,0 108.1213751672382,-6.933076796047961,0 108.1213410316293,-6.932986909986091,0 108.1213044365368,-6.932836453282823,0 108.1212637546244,-6.932712003188031,0 108.1212223771688,-6.932586813762933,0 108.121147602982,-6.932430629787359,0 108.1210486454508,-6.932339229040667,0 108.120918942813,-6.932219196469851,0 108.1208851585068,-6.93212924615064,0 108.1207893974447,-6.932040460844875,0 108.1206909856881,-6.931920034275106,0 108.1205926638128,-6.931770244856195,0 108.1204976197815,-6.931682044907668,0 108.1204319691803,-6.931562473868498,0 108.120335758627,-6.931443860053914,0 108.1202700854016,-6.931324251270206,0 108.1201749916128,-6.931235995604651,0 108.1201104427302,-6.931146752733048,0 108.1200447389057,-6.93102709738445,0 108.1199790249443,-6.930907423896715,0 108.1198827362923,-6.930788704055932,0 108.119787583398,-6.930700381883492,0 108.1196935706547,-6.930642465883223,0 108.119567822565,-6.930555094279089,0 108.1194737861455,-6.930497163728443,0 108.1193469173232,-6.930379405006454,0 108.119251817933,-6.930291134125918,0 108.1191555379623,-6.930172410657834,0 108.1190898342277,-6.930052704766501,0 108.1188696344421,-6.930104720267093,0 108.1060668993808,-6.941213011823495,0 108.1056802113466,-6.943054781426926,0 108.1071250020165,-6.952286612428067,0 108.1070058546248,-6.953048930658887,0 108.1068867549407,-6.9538109171121,0 108.1069175444735,-6.954414922836248,0 108.1069511674514,-6.955017551070053,0 108.1069847747418,-6.955619761733002,0 108.1068645128466,-6.956227031721896,0 108.1068981306773,-6.956828419545757,0 108.1069317204694,-6.95742939063996,0 108.1071189640256,-6.958024425430433,0 108.1076132889179,-6.958607946831616,0 108.1081071858533,-6.959190971592487,0 108.1084389621273,-6.959629301304979,0 108.1087705425055,-6.960067358480219,0 108.1092746960782,-6.96064295195363,0 108.1097730142936,-6.961066590722517,0 108.1135679850562,-6.962086303577142,0 108.120191604549,-6.962064260727106,0 108.1249331560688,-6.965623294898778,0 108.1271200809695,-6.968882701423359,0 108.1277291407674,-6.976992272129951,0 108.1283263445347,-6.979005247852094,0 108.1427463180344,-6.980093263656694,0 108.1430961853255,-6.980008484797007,0 108.143441408538,-6.97979002168878,0 108.143787820649,-6.979571237898265,0 108.1439206019515,-6.979229465985973,0 108.1440549321317,-6.978955044896197,0 108.1442577932268,-6.978610933340886,0 108.1443933497835,-6.978404194403347,0 108.1445268763562,-6.978131295242721,0 108.1446604456686,-6.97792576810191,0 108.1447837394998,-6.97758950241116,0 108.1449078253885,-6.977319961036063,0 108.1451683746355,-6.977112118167304,0 108.1453570163787,-6.976774003122769,0 108.1456154213588,-6.976499819635597,0 108.1458836016326,-6.976490753036485,0 108.1510220063199,-6.975391017274312,0 108.1514003118896,-6.975245535563071,0 108.1515263051463,-6.975041660143666,0 108.1519684699278,-6.974893714971703,0 108.1524113545219,-6.974745528457526,0 108.1526013592889,-6.974672422505348,0 108.1527278486895,-6.974534766365683,0 108.1531721459901,-6.974452806526871,0 108.1532993010423,-6.974448428318022,0 108.1536172344183,-6.974370699943758,0 108.1538720937138,-6.974361887687519,0 108.1541910599104,-6.974350858576904,0 108.1545096134106,-6.974272925751186,0 108.1547640430713,-6.974264051748246,0 108.1549550701592,-6.974257388940583,0 108.1552750560938,-6.974246262262397,0 108.1556205025262,-6.974234975331688,0 108.1559657143935,-6.974223696664532,0 108.1563106945451,-6.974212424557102,0 108.1565175726798,-6.974205665048242,0 108.1568663469281,-6.97419438790004,0 108.1572204851087,-6.974183099585714,0 108.1576935869345,-6.974100574351019,0 108.1580779755349,-6.974020243990649,0 108.1583348315377,-6.973944324849168,0 108.1586553675558,-6.973932965685286,0 108.1589121665959,-6.973923865081905,0 108.1591692875053,-6.97391475262178,0 108.1594267455633,-6.973905628559262,0 108.1597511819175,-6.973961340369447,0 108.1599496186352,-6.974088845976382,0 108.1702247282913,-6.975319956082538,0 108.1711125220983,-6.971702288256165,0 108.1750555237484,-6.968230009856071,0 108.177157754571,-6.96588693530051,0 108.1794620215932,-6.962227347508939,0 108.183895464231,-6.957309279761759,0 108.1881987068752,-6.954500231651391,0 108.1899393801054,-6.952352877109486,0 108.1925734307824,-6.950188647572174,0 108.1939594003853,-6.949754843118345,0 108.1966539650768,-6.949592280363557,0 108.1984890301462,-6.948523846503425,0 108.2002738297359,-6.946478406529161,0 108.2012070328807,-6.944796995287455,0 108.2020463998381,-6.943900627261843,0 108.204391471628,-6.943360285477733,0 108.2056484704938,-6.941558466812716,0 108.2063611257256,-6.939645933369862,0 108.2080396800985,-6.938072375844505,0 108.210272245341,-6.937052028026076,0 108.2138739220113,-6.935701297470185,0 108.2150278996296,-6.934892195877307,0 108.2162157331394,-6.933474254638319,0 108.2172017813973,-6.931918129012919,0 108.2182572406635,-6.930071394509272,0 108.21878846764,-6.928893331230572,0 108.2183336049918,-6.926008283997705,0 108.2173105186174,-6.924332718826025,0 108.2169833550242,-6.921464003872705,0 108.2167421951526,-6.920303494761266,0 108.2152862580294,-6.918114946886122,0 108.2135927028507,-6.916544598057276,0 108.2131555942216,-6.914455073142619,0 108.2136140207318,-6.911351188369308,0 108.2139034554076,-6.911171932390206,0 108.2137742143442,-6.911093235465002,0 108.2141010417108,-6.91073486172704,0 108.2159713807146,-6.907424357083437,0 108.2156773452015,-6.905044961108382,0 108.2144912084976,-6.903652397463806,0 108.2132355038322,-6.904112137233772,0 108.212197310491,-6.904735850000807,0 108.2106970688731,-6.903460677332067,0 108.206783226342,-6.908115272673399,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Wado</name>
+			<styleUrl>#msn_ylw-pushpin14</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							108.1701576637603,-6.976948146459783,0 108.170244277221,-6.975317045237053,0 108.1599912190796,-6.974101612266009,0 108.1598141582821,-6.973971640815828,0 108.1597473147919,-6.973973248359247,0 108.1596808268869,-6.973974931252985,0 108.1596136202749,-6.973950649297183,0 108.1595597790548,-6.973926069250181,0 108.1594938965549,-6.973927878530979,0 108.1594407989489,-6.973916348762895,0 108.1593751812311,-6.97391816479518,0 108.1588425303242,-6.973946804175111,0 108.158777974658,-6.973948635009572,0 108.1587260295968,-6.973937197006455,0 108.1586617034489,-6.973939027558802,0 108.158610310099,-6.973940507314644,0 108.1585586285457,-6.973929128383817,0 108.1585073850498,-6.973930613276976,0 108.1584306511998,-6.97393283680135,0 108.1583802303925,-6.973959976624656,0 108.1583292113501,-6.973961437512209,0 108.1582400955693,-6.973963989219782,0 108.1577562223381,-6.974069061062153,0 108.157717288431,-6.974070518144159,0 108.1576523319549,-6.974072950060638,0 108.1575872031267,-6.974075417714085,0 108.1575219852765,-6.974077888815343,0 108.1574702664948,-6.974092607032564,0 108.1574184977019,-6.974107339761647,0 108.1573666777226,-6.97412208675882,0 108.1573148079356,-6.974136848158024,0 108.1572634201208,-6.974164382883751,0 108.1572114516914,-6.974179178499949,0 108.1571594325031,-6.974193988534106,0 108.1570936567616,-6.974196551039391,0 108.1570546945864,-6.974210872003928,0 108.1570018334469,-6.974212976553589,0 108.156948505815,-6.974215207670969,0 108.1568553844968,-6.974218998212421,0 108.1568287363762,-6.974220082982432,0 108.1567753824596,-6.97422225473424,0 108.1566952098821,-6.974225518099141,0 108.1566282687759,-6.974228242984332,0 108.1565746300563,-6.974230426234858,0 108.1564805786252,-6.974234254628665,0 108.156425120597,-6.974210775083319,0 108.1563568649926,-6.97420064490135,0 108.1563160866782,-6.974189281361332,0 108.1562624355604,-6.974178294632792,0 108.1562096461289,-6.974180158578964,0 108.1561568332197,-6.974182023503161,0 108.1561051969396,-6.974209743745878,0 108.1560529474297,-6.974224543209218,0 108.1559868548996,-6.974226887453424,0 108.1559074971449,-6.974229702167233,0 108.1558539493747,-6.974218641893648,0 108.1557997544626,-6.974194632104259,0 108.1557196409492,-6.974184490192066,0 108.1556406073126,-6.974161080534888,0 108.1555894259689,-6.974162629903438,0 108.1555267027837,-6.974164363297052,0 108.1554640766968,-6.974166094213545,0 108.1554140456862,-6.974167476932779,0 108.1553269111499,-6.974195864151276,0 108.1552895029158,-6.974196886051853,0 108.1552272321309,-6.974198586932704,0 108.1551900401493,-6.974212573537516,0 108.155127917918,-6.974214260496876,0 108.1550412183267,-6.974229563741346,0 108.154979533264,-6.97425711318971,0 108.1549547961934,-6.974257773034744,0 108.1549177171533,-6.97425876212986,0 108.1548688372804,-6.974259996826789,0 108.1548080221676,-6.97426150819684,0 108.154759453884,-6.974262714981687,0 108.1547109606827,-6.974263920163323,0 108.1546625427797,-6.974265123326159,0 108.1545900547192,-6.97426692470842,0 108.1545297754857,-6.974268422636629,0 108.1544816355696,-6.974269618904662,0 108.1544335699063,-6.974270813342263,0 108.1543854186554,-6.974284863788289,0 108.1543373298067,-6.974298896259974,0 108.154289302356,-6.974312910960626,0 108.1542415119202,-6.974314069048274,0 108.1541941584476,-6.974289577212208,0 108.1541469024951,-6.974265135369846,0 108.1540874780426,-6.974266624119274,0 108.1540400207252,-6.974267813165356,0 108.1539924288524,-6.974281775294493,0 108.1539446829178,-6.974308491986994,0 108.1538974242489,-6.974309646833849,0 108.1538502179427,-6.974310803271344,0 108.1538020481412,-6.974312102043399,0 108.1537058702831,-6.974314695282751,0 108.1536578612835,-6.974315989785188,0 108.1536100156594,-6.974304583442552,0 108.1535501518454,-6.97430620639506,0 108.1534893820864,-6.974333293435787,0 108.1534646961603,-6.974372056668841,0 108.1534157065363,-6.974411507956481,0 108.1527430858192,-6.974508198806241,0 108.1525959419042,-6.974625476608258,0 108.1515085545862,-6.975044578646582,0 108.1513913434239,-6.975259777617392,0 108.1509916815046,-6.975397727394023,0 108.1459214421368,-6.976486875904866,0 108.1456119230328,-6.97648423352432,0 108.145372709081,-6.976726421947545,0 108.1451635511154,-6.9771144933514,0 108.1448970114755,-6.977307034883225,0 108.1446331712066,-6.977942623015897,0 108.1445631916187,-6.978130217643326,0 108.1440973718348,-6.97891274346592,0 108.1437834805619,-6.979556672923005,0 108.1428049879052,-6.980064113155224,0 108.1423713767683,-6.980075798303228,0 108.1356853599734,-6.979563732484874,0 108.1283247987396,-6.979035083057148,0 108.1277156577648,-6.976801226688527,0 108.1271073697473,-6.968881694126585,0 108.1249626717951,-6.965642414166997,0 108.1201895578512,-6.962078539908276,0 108.1136195926983,-6.962104340252757,0 108.1127923742102,-6.961896430215193,0 108.1104086430959,-6.961241709466974,0 108.1096705645999,-6.960992967216693,0 108.1086610758521,-6.959986011750558,0 108.1077789283517,-6.958780322107798,0 108.1070582598136,-6.957936162396817,0 108.1070106156437,-6.957637766338185,0 108.1068917847473,-6.956412618206246,0 108.1069425029272,-6.955745461942363,0 108.1069343886991,-6.953643638836102,0 108.1071187033299,-6.952204798688135,0 108.1058695576655,-6.944421263159182,0 108.1056527718762,-6.9431071483641,0 108.1060865154389,-6.941194034633796,0 108.1080678271344,-6.939475596579617,0 108.1117396634222,-6.93626482175444,0 108.1146672548217,-6.933738385688685,0 108.1163559626025,-6.93222521339999,0 108.1186516293588,-6.930290646986469,0 108.1189920301994,-6.930010838327502,0 108.1184606117657,-6.929350198842623,0 108.1171980076495,-6.928286236585309,0 108.1161246705636,-6.92696242694569,0 108.1153582721847,-6.925824575527324,0 108.1137503731062,-6.924343996802803,0 108.111147049012,-6.921829134044106,0 108.1106921467623,-6.921397406829616,0 108.1102626125131,-6.921228378996347,0 108.1099761907932,-6.921076334304981,0 108.109279114325,-6.920482948287037,0 108.1087117269001,-6.920066690974752,0 108.1085224273083,-6.920278558748715,0 108.1082744502012,-6.921174353295611,0 108.1067608313694,-6.926460679258147,0 108.1052709915207,-6.931862784099324,0 108.1045678510365,-6.93415707618518,0 108.1015601784179,-6.938651799710221,0 108.0984701871504,-6.943232321078757,0 108.0981427598178,-6.944536291824678,0 108.0979206072604,-6.945029669414389,0 108.0976994877248,-6.945523047387232,0 108.097606872384,-6.945853587468911,0 108.0968751649025,-6.948417887208398,0 108.0966749538963,-6.948978662532184,0 108.0965626957232,-6.949408540350992,0 108.0963654555014,-6.949964082129354,0 108.0960068261505,-6.951016632630469,0 108.0910910049599,-6.957462357772188,0 108.0905650825112,-6.96385228001392,0 108.0905012742052,-6.964064641449771,0 108.0904941524377,-6.964397831211448,0 108.0904231643871,-6.964925403895705,0 108.090423355238,-6.96544910587447,0 108.0903066001164,-6.966131236311912,0 108.0902893120049,-6.966966767768953,0 108.090454290632,-6.967245386894728,0 108.0903802776398,-6.967717108523248,0 108.0903239945126,-6.9681800472214,0 108.0902678670105,-6.968641778030408,0 108.0897907471022,-6.974060005029969,0 108.0897675342006,-6.974294656963495,0 108.0897627964108,-6.974538595632005,0 108.0897592391173,-6.974721768073861,0 108.0897505240717,-6.975149731254818,0 108.089813896933,-6.975456619945705,0 108.0898071832055,-6.976134785358439,0 108.0898063135958,-6.97632046227089,0 108.0898185195415,-6.976635029384211,0 108.0899767694856,-6.977138037080206,0 108.0901120882342,-6.977654624942345,0 108.090302143058,-6.978102276406836,0 108.0903318965921,-6.978419381421854,0 108.0903127816042,-6.978661771951053,0 108.0904233732332,-6.979025640099625,0 108.0904648103037,-6.979391306533788,0 108.0904367498997,-6.979759161374957,0 108.0904226716309,-6.979943694483804,0 108.0904156813185,-6.980380048747569,0 108.0904177921759,-6.980630759356999,0 108.0904199063837,-6.98088164040722,0 108.0904230815755,-6.981258284319666,0 108.0904257328681,-6.981572448548755,0 108.0904339402158,-6.98207595249566,0 108.0904412207776,-6.982265143882055,0 108.0905169372186,-6.98245245986864,0 108.090597453817,-6.982765684486094,0 108.0906754246602,-6.982952775558347,0 108.0909221900136,-6.983387288909671,0 108.0909933357764,-6.98357366062114,0 108.0912292069468,-6.983943281727171,0 108.0913997643929,-6.984250992552772,0 108.0914823081324,-6.98437322567276,0 108.0917340145482,-6.984800795675428,0 108.0918426627474,-6.985169448958559,0 108.0918679640024,-6.985416418707679,0 108.0918206446939,-6.985666294001138,0 108.0917797433745,-6.98597746055096,0 108.0917496217001,-6.986348805922078,0 108.0916849324018,-6.986538531330195,0 108.0916289099917,-6.986851743038521,0 108.0915790999604,-6.987163752822078,0 108.091534230415,-6.987599637340279,0 108.0915378146475,-6.98766133998256,0 108.091478376134,-6.98791301212768,0 108.0914963232864,-6.988221351641638,0 108.0914369264538,-6.988473140111373,0 108.0913133854613,-6.988790356378013,0 108.091257661759,-6.989041323655899,0 108.0912059984059,-6.989353787094886,0 108.0911584137496,-6.989727637583072,0 108.0911762413022,-6.990098246521149,0 108.0925940012021,-6.991762622267813,0 108.0944633290372,-6.991484107469585,0 108.0960885172867,-6.993691958533671,0 108.0979621011908,-6.996584687359323,0 108.0985787982039,-6.999500253726554,0 108.0985995477754,-7.004686795922126,0 108.1013694144554,-7.007778732221233,0 108.1024588136936,-7.010721591565162,0 108.102417761039,-7.012395022244791,0 108.1044649514637,-7.01584206956916,0 108.1088795382496,-7.018961855516467,0 108.1118147936957,-7.021827152735585,0 108.1145071416553,-7.025420193062472,0 108.1204212998657,-7.03118382566406,0 108.1250394162947,-7.034340985496972,0 108.1291257333783,-7.035469658648795,0 108.1348037419828,-7.038597286062473,0 108.1392917148576,-7.039008173832079,0 108.1424634236868,-7.038065702094754,0 108.1425194516325,-7.036113435120262,0 108.1442797458774,-7.034338586676743,0 108.1461479201287,-7.033434015410667,0 108.1468009098577,-7.032455869472034,0 108.1464413849756,-7.031901838546784,0 108.1492413819291,-7.03002333141254,0 108.1502848582138,-7.02933409075886,0 108.1513537705802,-7.028809284558395,0 108.1525551353659,-7.027965383092276,0 108.1536829420538,-7.027575458084509,0 108.1546322063355,-7.02700239758733,0 108.1560509725806,-7.024941544232244,0 108.1566707950005,-7.023002532274075,0 108.1589095915799,-7.018441493517715,0 108.1625514053946,-7.016334217136881,0 108.1631719660401,-7.01650591943727,0 108.1668045935364,-7.015281564914921,0 108.1680542938152,-7.013440797570395,0 108.1690100647004,-7.009920819855531,0 108.1635368254551,-7.000992201383509,0 108.1674477215092,-6.991648614822489,0 108.1694033144012,-6.983706662392534,0 108.1693495677863,-6.982330716971818,0 108.1699912857953,-6.981789830499323,0 108.1701576637603,-6.976948146459783,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Tanjungmedar</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							107.8391010900999,-6.662925588942031,0 107.8390783886591,-6.666533792096882,0 107.8360212880691,-6.67182127682765,0 107.8321256309396,-6.676721767565252,0 107.8294669553234,-6.680179619624202,0 107.8294107226893,-6.680468734609464,0 107.8293468738234,-6.680824330663416,0 107.8293536307553,-6.6811065171362,0 107.8294344692255,-6.681456465101797,0 107.8295845629497,-6.681662574135407,0 107.8297749829846,-6.681993840905377,0 107.8298892564963,-6.682257330204804,0 107.8300848833845,-6.682451467379522,0 107.8303196879084,-6.682730170230915,0 107.8305365602537,-6.682932258012948,0 107.830597241653,-6.683206976432722,0 107.8308281537492,-6.683484567352774,0 107.8309724472351,-6.683760567681774,0 107.8312124663298,-6.683970580081165,0 107.831463109823,-6.684183740224579,0 107.8318485851864,-6.684317425355248,0 107.8321063269283,-6.684532393578361,0 107.8323878311949,-6.684754024397297,0 107.8326884782528,-6.684980548738914,0 107.833111092733,-6.685287261390853,0 107.8334365508308,-6.685518279647817,0 107.83374316218,-6.685812056812424,0 107.8340407606288,-6.686101952635564,0 107.8343215432691,-6.686317546236453,0 107.8345484772982,-6.686607477834983,0 107.8348554291122,-6.686895299811624,0 107.8352434850906,-6.687181152816233,0 107.8353615296247,-6.687392467188849,0 107.8355604866331,-6.687738124129467,0 107.8355814171996,-6.688080574370687,0 107.8357457042931,-6.688350650582159,0 107.8359209627878,-6.688689666381315,0 107.836024783636,-6.688962505574787,0 107.836128336623,-6.689234657244261,0 107.836227252399,-6.689505665696755,0 107.8362458466969,-6.689777534267853,0 107.8362564977243,-6.690048528812656,0 107.8363184594626,-6.690383657383528,0 107.8363840820503,-6.690651883646215,0 107.8364475265311,-6.690988267438027,0 107.836441301593,-6.691123864925253,0 107.836871824757,-6.692069694871155,0 107.8363150261964,-6.696366679158084,0 107.8355869877979,-6.699334843084597,0 107.8343577897687,-6.70685147066379,0 107.8345063127789,-6.719613195834644,0 107.8337113952506,-6.733666221897025,0 107.8348921286047,-6.736739256927302,0 107.8346848652038,-6.742078564646833,0 107.8355010045171,-6.74621615345948,0 107.8361366343898,-6.748417371966609,0 107.836495899929,-6.752403429537527,0 107.8353184584053,-6.758478739961949,0 107.8342558503558,-6.763287781862182,0 107.8333366251921,-6.767603593037312,0 107.8325956033295,-6.769948144461439,0 107.827925155922,-6.774080277698693,0 107.824804229802,-6.776374379497064,0 107.8208602956182,-6.779948842125707,0 107.8193138177947,-6.78151875445268,0 107.8186713392449,-6.783099747409326,0 107.827027280971,-6.784190362104841,0 107.8272786792565,-6.784118205933638,0 107.8275311389282,-6.783922588990476,0 107.8276528324278,-6.783792645558568,0 107.8279985400975,-6.783582296772539,0 107.828112345222,-6.783449561433893,0 107.8285205400517,-6.783296499000446,0 107.8288105243125,-6.783088237017651,0 107.8290933115129,-6.78287647936316,0 107.8292047551069,-6.782803268169977,0 107.8295605786371,-6.782714909361539,0 107.8297340273369,-6.782637540589571,0 107.8301535454217,-6.782544744166619,0 107.8305573360377,-6.782444417718804,0 107.8308457426767,-6.782353682677147,0 107.8311585994827,-6.78227236643027,0 107.8314355066604,-6.782268942229847,0 107.8319218064627,-6.782264194832917,0 107.8322736265751,-6.782200751389292,0 107.8326340554945,-6.782204583010325,0 107.8329212890165,-6.782207637704727,0 107.833185202358,-6.782137333329233,0 107.8333775486081,-6.782066242200388,0 107.8338305818567,-6.781923098516456,0 107.8340796524872,-6.78178242813854,0 107.8343404834411,-6.781710341867153,0 107.834650472645,-6.781501740408047,0 107.8348840933184,-6.781225519925246,0 107.8350120190202,-6.781156386854763,0 107.8422799034424,-6.779106873683679,0 107.8725477947383,-6.780599321835186,0 107.8765659884525,-6.778671411052526,0 107.8776215125941,-6.776263320012626,0 107.8754349332776,-6.766454425422585,0 107.8754949667264,-6.765751151595723,0 107.872759693319,-6.761712118170935,0 107.8671788387579,-6.758929552797973,0 107.8653884367632,-6.756343094118389,0 107.8651753715215,-6.753130855153188,0 107.8682164404514,-6.749724937273761,0 107.8848280088846,-6.748831003368213,0 107.8899232021833,-6.747725766336847,0 107.8937376653795,-6.74357032031706,0 107.8942806194119,-6.726978452720758,0 107.9023311808428,-6.7210090705512,0 107.9024634386638,-6.714461908797514,0 107.911063545206,-6.705281276430846,0 107.9128488322958,-6.70073784560184,0 107.9124938263169,-6.6975116399374,0 107.9065218711926,-6.687822962207031,0 107.9022899127597,-6.684868063797243,0 107.8949004009251,-6.676462233614093,0 107.8893968513783,-6.671720606984721,0 107.8782670637953,-6.676241062784364,0 107.8729651037626,-6.676294908672105,0 107.8638107150181,-6.668508131843101,0 107.8583679486383,-6.668304068337427,0 107.8554913803299,-6.668091535822363,0 107.8521455299569,-6.66720480784414,0 107.8474509698765,-6.665944030512098,0 107.8458186946713,-6.665397505655267,0 107.8391544130759,-6.662860859940203,0 107.8391010900999,-6.662925588942031,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Tanjungkerta</name>
+			<styleUrl>#msn_ylw-pushpin24</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							107.9110020096981,-6.705306798668865,0 107.9024280214155,-6.714546418554645,0 107.9023357834491,-6.720942118053254,0 107.8942851034255,-6.726944425977293,0 107.8937442477472,-6.743532718111546,0 107.8898761747861,-6.747710679091093,0 107.8849451872264,-6.748833136548138,0 107.8682530783114,-6.749726018249785,0 107.8651105432792,-6.753139996248101,0 107.8652984558156,-6.756285369507508,0 107.867093372291,-6.758840273528978,0 107.8726876845441,-6.761678480991285,0 107.8754280491837,-6.765768477201536,0 107.875461076086,-6.766433453706908,0 107.8775749390661,-6.776195609179434,0 107.8765249748188,-6.778603928525395,0 107.8747868762047,-6.779516707876165,0 107.8723611283387,-6.78064844696034,0 107.8741340699296,-6.783408752275635,0 107.8742368746442,-6.783500655613744,0 107.874416793179,-6.784084732833646,0 107.8747392584178,-6.784457047534898,0 107.8750609578292,-6.784828476584652,0 107.8754688577992,-6.785192528083125,0 107.8757742506135,-6.785465087042782,0 107.8760791764456,-6.785737235603857,0 107.8763981092124,-6.786105780750423,0 107.8768031750343,-6.786467216232591,0 107.8771030566139,-6.786648821570282,0 107.8772225420743,-6.787011493646374,0 107.8774304929362,-6.787455461898784,0 107.8774712466822,-6.787828697554328,0 107.8775466638803,-6.788482535042532,0 107.8776027371585,-6.788949309123098,0 107.8777754501458,-6.789599445976969,0 107.8778634870582,-6.790081113429168,0 107.8779393227217,-6.790467645402164,0 107.8781245782131,-6.790945647820362,0 107.8782056586905,-6.791331125990537,0 107.8783264274969,-6.791905325990206,0 107.8784065523623,-6.792285566118717,0 107.8784319513791,-6.792767791531715,0 107.8784827173013,-6.793129903848329,0 107.8783383045368,-6.793404127477067,0 107.878204714137,-6.793766804627428,0 107.8780714635675,-6.794128541658086,0 107.8778404012003,-6.794403942957102,0 107.8776190596014,-6.794766606733091,0 107.8774023842383,-6.799130899785186,0 107.880426160405,-6.801181094495783,0 107.8833073733055,-6.803129961064119,0 107.8909666480571,-6.80219713513394,0 107.8953015469822,-6.803090931257309,0 107.8955082372253,-6.803460464861801,0 107.8956289213014,-6.803926903885946,0 107.8958345466666,-6.804294202266661,0 107.8961356753501,-6.804748898480971,0 107.8963391886447,-6.805112575392888,0 107.8965422203394,-6.80547538906576,0 107.8967392367651,-6.805744474431052,0 107.89712222238,-6.806097317484579,0 107.8974064050908,-6.806356804413709,0 107.8975957576254,-6.806529702651785,0 107.8979700726564,-6.806784712174189,0 107.8982609653944,-6.807140425531386,0 107.8986445387795,-6.807497430881647,0 107.8989266152719,-6.807672537642264,0 107.8993896094749,-6.807841448559379,0 107.8996661527047,-6.807924324224768,0 107.9000460290937,-6.808278743906802,0 107.9003301240057,-6.808543799226459,0 107.9052998639764,-6.808802194785825,0 107.9082261102073,-6.805333408159322,0 107.9083112961284,-6.798329012494879,0 107.9072063651336,-6.795684181775466,0 107.9070164373911,-6.793766715353729,0 107.9069954873376,-6.788031129369634,0 107.9095348677018,-6.782456290877526,0 107.9116326431061,-6.773071913710255,0 107.9199779932369,-6.762056304793418,0 107.9206134844187,-6.759427373395934,0 107.922626681109,-6.757673377384394,0 107.9227380921432,-6.75761654235683,0 107.9229537222453,-6.757398172485312,0 107.9284756652069,-6.751098822051618,0 107.9327557767424,-6.750479311910484,0 107.9374136700724,-6.746292598895127,0 107.9394151791693,-6.736706035741734,0 107.9387678670839,-6.734578073766942,0 107.9370422775757,-6.728753492389192,0 107.9345892280987,-6.718202939009053,0 107.9305763001257,-6.706993134163348,0 107.9294201669032,-6.705688501341476,0 107.9208638263351,-6.704954072569666,0 107.916356556696,-6.703848351510255,0 107.9128145342226,-6.700883765949737,0 107.9110020096981,-6.705306798668865,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Cimalaka</name>
+			<styleUrl>#msn_ylw-pushpin12</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							107.9394267022103,-6.73671811917658,0 107.9374073013146,-6.746287103942752,0 107.9327258894318,-6.750472160875177,0 107.9284361302389,-6.751111734539249,0 107.9274153871374,-6.752297276162237,0 107.9237534559046,-6.756512887203358,0 107.9227856250436,-6.75757658841736,0 107.9206043688559,-6.759428831061862,0 107.9199678761061,-6.762010870125775,0 107.9116202297719,-6.772994712709465,0 107.910392087632,-6.778642686522112,0 107.9094848194424,-6.782645111597654,0 107.9070121076588,-6.788024783978974,0 107.9069869307858,-6.791564595666869,0 107.907016745736,-6.793864541080681,0 107.9071974631659,-6.79568430096585,0 107.9082975064812,-6.798249961662702,0 107.9142528734366,-6.799253596650841,0 107.9213756677208,-6.804286188093802,0 107.9289496717521,-6.804381929532228,0 107.9347911717559,-6.8097100948645,0 107.9415564995258,-6.809580014393664,0 107.9423220638177,-6.810281653784929,0 107.9443553391625,-6.814238951463787,0 107.9452730492444,-6.814542318196207,0 107.9475638999974,-6.814615809847101,0 107.9606258568643,-6.818048091186086,0 107.9703156983396,-6.818704442399396,0 107.981533105078,-6.818424066216278,0 107.987942160379,-6.817909848553289,0 107.9930534837407,-6.813008854109207,0 107.9965620730133,-6.807884922897279,0 107.9893278642769,-6.799589316187781,0 107.9888673949748,-6.794714899620407,0 107.9810079664876,-6.787136103852823,0 107.9759910652226,-6.780357583113941,0 107.9707962780105,-6.769596749249216,0 107.9689700278096,-6.763758871581872,0 107.9689672048843,-6.763696473945869,0 107.9689530482096,-6.763383318410218,0 107.9688826630471,-6.763135750563445,0 107.96881211527,-6.762887889602852,0 107.9687400515273,-6.762584732464064,0 107.96872689485,-6.762275277168096,0 107.9676195803128,-6.757067361727408,0 107.9611487176465,-6.754848548954172,0 107.9564883118606,-6.751932433955593,0 107.9478595880292,-6.746114642755751,0 107.9394695810521,-6.736829017374284,0 107.9394267022103,-6.73671811917658,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Paseh</name>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							108.0822564565404,-6.77746598066691,0 108.0816491264059,-6.777381599179449,0 108.0774782302184,-6.775266599480511,0 108.073744679322,-6.768811940338808,0 108.0693491272262,-6.762418079490161,0 108.0635843150602,-6.766533954934665,0 108.0581001441602,-6.772016661749426,0 108.0143213878693,-6.771373390614608,0 108.0121060803757,-6.776343022106732,0 108.0094060646035,-6.779213506592796,0 108.0038978636816,-6.779715375711905,0 107.9988068984703,-6.777356780841378,0 107.9889976013583,-6.768037475776962,0 107.9759173675026,-6.755867462780357,0 107.967752086938,-6.757133641451914,0 107.9678494677664,-6.757958293556546,0 107.9688011684954,-6.762382690077774,0 107.9688919112394,-6.763331827103031,0 107.9691292676582,-6.764181316090985,0 107.9697100853664,-6.765969384025359,0 107.9708594793145,-6.769573357837604,0 107.9735075119531,-6.775081388260311,0 107.9751559580932,-6.778489327019484,0 107.9758737006291,-6.780111156720534,0 107.9778680763021,-6.782824600645397,0 107.9809568689719,-6.786928252283393,0 107.9851268598495,-6.791135966158427,0 107.9889780404212,-6.794783235990406,0 107.9893626987762,-6.799526412187838,0 107.9965211963606,-6.807865130222311,0 108.0028979703724,-6.812154477005157,0 108.0125719302179,-6.811912958858778,0 108.0233998513312,-6.810282775036563,0 108.0290069682422,-6.814105528507283,0 108.0412411573125,-6.813720708726274,0 108.062793595616,-6.796176683917687,0 108.0696771214665,-6.796172598640924,0 108.0732651561019,-6.790892986400734,0 108.0751383886107,-6.788861802402204,0 108.0784872224859,-6.783563574000762,0 108.0801192956096,-6.781700812125323,0 108.0811822413,-6.779981091247173,0 108.0816975455037,-6.779093725108523,0 108.0822564565404,-6.77746598066691,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Situraja</name>
+			<styleUrl>#msn_ylw-pushpin21</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							108.0694853893872,-6.79618735152583,0 108.0627676002233,-6.796206803245362,0 108.0559204369994,-6.801820820525131,0 108.0491537705119,-6.807250955072533,0 108.0465179286896,-6.809439667285192,0 108.041296119833,-6.813679692739288,0 108.0283331862296,-6.814164149151359,0 108.0280242851289,-6.815632845574743,0 108.0287314624806,-6.821324029416404,0 108.0278529411585,-6.825509866524703,0 108.0225747909739,-6.826905335448662,0 108.016150687505,-6.82672680437444,0 108.0107640880762,-6.824750543529259,0 107.9999109178011,-6.834166592758066,0 108.000166863958,-6.839923898729547,0 107.995277920865,-6.856228956120911,0 107.9910945905528,-6.862552689263082,0 107.990782532326,-6.890909208695029,0 107.9890624505915,-6.897106866387977,0 107.9803749666822,-6.898836079330422,0 107.9734797942682,-6.90559117415116,0 107.9739032595389,-6.913879543706536,0 107.9745366429732,-6.925724080286893,0 107.9770330577869,-6.938148246997074,0 107.9822260979824,-6.943885219485201,0 107.9850295604257,-6.939107691257379,0 107.9910773881241,-6.932597367525646,0 108.0044321877966,-6.920235863237363,0 108.0043370193235,-6.908204451698724,0 108.0065107371495,-6.899399026594648,0 108.012234129379,-6.892156357607452,0 108.0203947983064,-6.882650475868863,0 108.0263369213396,-6.873208402399277,0 108.0345670191955,-6.870775046087091,0 108.0396647187428,-6.867211564176816,0 108.04812438703,-6.860534844430568,0 108.0520090141633,-6.856709696801856,0 108.0526217485401,-6.849378820262671,0 108.0507216930077,-6.84093841350986,0 108.0466788538518,-6.831555174595478,0 108.0472898144825,-6.825319757401791,0 108.0561027467381,-6.824153558556213,0 108.0634281671459,-6.824442944450137,0 108.0682253685966,-6.821547018712157,0 108.0677719023002,-6.820641274245479,0 108.0666906695913,-6.81814599524004,0 108.0667446043005,-6.814812582103139,0 108.0663724379335,-6.811882432332378,0 108.0669679953158,-6.808884758518604,0 108.0676203912905,-6.805124643715377,0 108.0676846265453,-6.804886154025218,0 108.0677439772483,-6.804568585270728,0 108.0678034226105,-6.804250510731061,0 108.0678629617839,-6.803931927641481,0 108.0678437604387,-6.803615492075888,0 108.0679037206086,-6.803295945232451,0 108.0679637728691,-6.802975902740421,0 108.0679452429385,-6.802658140908959,0 108.0679299954116,-6.802340586696955,0 108.0679938710926,-6.802020028300948,0 108.0682150435893,-6.801614759518853,0 108.0682854859555,-6.801373943233294,0 108.0683525672649,-6.801053545619277,0 108.0696774653952,-6.796180696313399,0 108.0694853893872,-6.79618735152583,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Cisitu</name>
+			<styleUrl>#msn_ylw-pushpin6</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							108.083398373136,-6.827676128607709,0 108.0829673794617,-6.827776878306809,0 108.0825716450234,-6.827783211211093,0 108.0820580646308,-6.827496523008755,0 108.0816430785798,-6.827296141753277,0 108.0809188286926,-6.827002962582307,0 108.079930284003,-6.826305549860274,0 108.078777269986,-6.825657730473836,0 108.078183639247,-6.825539191567263,0 108.0768784652425,-6.825491224947411,0 108.0760015351849,-6.824964273093492,0 108.075545582851,-6.824963662254557,0 108.0745447819209,-6.824817406221841,0 108.0741600060051,-6.824669376361549,0 108.0737697050359,-6.824677713278776,0 108.0731976456909,-6.824514507628209,0 108.0727589038501,-6.824431509961646,0 108.0723650388267,-6.824252444789773,0 108.0712561015816,-6.823904579837022,0 108.0700132496844,-6.823415669348827,0 108.0693355175361,-6.82303175221232,0 108.0690081468844,-6.822730083039994,0 108.0686432757046,-6.822292878404549,0 108.0684518136,-6.822037475293945,0 108.0682515649637,-6.821536424434476,0 108.063419128134,-6.824437596236267,0 108.0560525167314,-6.824162543178453,0 108.0472742458989,-6.825314219281212,0 108.0466769600816,-6.831542740290644,0 108.0507276214745,-6.840908776285951,0 108.0526128906632,-6.849379320785494,0 108.0519995631699,-6.856700245089599,0 108.0479586761902,-6.860640028864371,0 108.0394825368572,-6.867328282285561,0 108.0346028472606,-6.870644559191284,0 108.0263252337385,-6.873218814945841,0 108.020391676821,-6.882563720615711,0 108.0116396889315,-6.892811776324307,0 108.0100428700809,-6.894986365229333,0 108.0064881001955,-6.899378664018706,0 108.005188074359,-6.904833739124932,0 108.004302916559,-6.908188096103106,0 108.0043673065292,-6.912474059001079,0 108.0043777822516,-6.914287605621523,0 108.0043996921161,-6.916089134225462,0 108.004455075108,-6.92019182560355,0 107.9889854436836,-6.934744663048286,0 107.984939058993,-6.939029753045495,0 107.9823385808302,-6.943793695916824,0 107.9785756068332,-6.944231757065443,0 107.9806590395556,-6.948811839370735,0 107.9990331708414,-6.948215294970281,0 108.0120727315554,-6.953425338843152,0 108.0208210698872,-6.941525291956108,0 108.022161683999,-6.932688250067518,0 108.0245107440062,-6.929762925003641,0 108.0281270988575,-6.923532172184602,0 108.0384539180163,-6.922810512627542,0 108.0413109302557,-6.922109040878458,0 108.0411717569678,-6.914759640767308,0 108.0360903126372,-6.909748324413916,0 108.0353998152441,-6.90617161517621,0 108.0396996119558,-6.901218118489685,0 108.0495145385923,-6.896212935999895,0 108.0535161883813,-6.89617352265413,0 108.0603470577245,-6.89954976093147,0 108.0690432177709,-6.89926106958344,0 108.0722786207269,-6.896557611775434,0 108.0710089279809,-6.888219030171957,0 108.0718547019944,-6.878467731116354,0 108.0770355280707,-6.870796012257794,0 108.0821626923379,-6.866365238978988,0 108.0866521465858,-6.867119556671485,0 108.0921128715388,-6.872433532822233,0 108.092844314879,-6.872269234979873,0 108.0937065149688,-6.872103223379279,0 108.0943614742582,-6.872292933625526,0 108.0950916509506,-6.872723294066398,0 108.0963141225279,-6.873344926397325,0 108.0973026781672,-6.873905796492432,0 108.0983164958718,-6.873943464170921,0 108.1013581978979,-6.873814951039797,0 108.1036710488804,-6.873118983786808,0 108.1050270447912,-6.872295907704466,0 108.1061902997606,-6.871251407100527,0 108.1072964417159,-6.870305158990455,0 108.1079122710119,-6.869226078167862,0 108.1084777383966,-6.867700728319095,0 108.1085713293328,-6.866495943523674,0 108.1086726036465,-6.866084838813933,0 108.1086305521868,-6.864468241181736,0 108.1096037980063,-6.86265152338962,0 108.1099619574765,-6.860828279400334,0 108.1118367917088,-6.855610789082745,0 108.112553904687,-6.854358700989966,0 108.1125008318992,-6.853424603675045,0 108.1123843003365,-6.852812178637174,0 108.1119759537826,-6.85198417605587,0 108.1112834206156,-6.850890566641067,0 108.111280704368,-6.849939880411245,0 108.1111433137666,-6.849431442543891,0 108.1108515521896,-6.847784335602269,0 108.1105856661444,-6.846473296905247,0 108.1104995732623,-6.845623862307871,0 108.11033542424,-6.845100901173625,0 108.1101876529946,-6.84232321697723,0 108.1100444417658,-6.841537544797603,0 108.1096941645702,-6.840784808877396,0 108.1081826049465,-6.839750607093333,0 108.1073323729742,-6.83928401064708,0 108.1065444904099,-6.838846984421072,0 108.1055566275345,-6.838593234332085,0 108.1022965595155,-6.838639813194318,0 108.1001572042658,-6.840954245287153,0 108.0978620550774,-6.842318228046499,0 108.0965050636871,-6.842396933968952,0 108.09543236383,-6.84232644304488,0 108.0941372086304,-6.842422681457128,0 108.092539888754,-6.841681253806543,0 108.0919158568792,-6.841057002849469,0 108.0899942813642,-6.839861966149149,0 108.088551729951,-6.837858667076409,0 108.0872808495775,-6.835928079417131,0 108.0871086900147,-6.835899113585683,0 108.0860391299985,-6.834499501980076,0 108.0844811881515,-6.83250562881,0 108.0837444495138,-6.832014754081142,0 108.0832324016487,-6.83112997190239,0 108.0834385684845,-6.830784488270184,0 108.0835266156918,-6.829934298071454,0 108.0840049046932,-6.829211722560922,0 108.083938524455,-6.828553448577921,0 108.0834915022073,-6.827848053850926,0 108.0834392044241,-6.827687950250432,0 108.083398373136,-6.827676128607709,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Darmaraja</name>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							108.1019465882017,-6.881167976872746,0 108.1010148928655,-6.88064169174587,0 108.1008456276316,-6.880564696330827,0 108.1002218845384,-6.880370251043563,0 108.0992672514228,-6.880371614032415,0 108.0971851779279,-6.879932741302657,0 108.0966609525563,-6.880003906838285,0 108.0961095687539,-6.879804700419797,0 108.0952194340995,-6.879798086191382,0 108.0944056522722,-6.879982304864757,0 108.0932404535968,-6.881027120390421,0 108.0917553346028,-6.882220799216082,0 108.0900745019739,-6.882440350693885,0 108.0890014321295,-6.88221316173764,0 108.0879293474017,-6.881626413597823,0 108.0875073592925,-6.880836183253756,0 108.0872537897784,-6.879749945810004,0 108.0871171939195,-6.878894658646775,0 108.087401028474,-6.878204768140837,0 108.0888968016893,-6.877576910933529,0 108.0897277888631,-6.877011555365544,0 108.0903838292902,-6.876649268430757,0 108.0908891144571,-6.876076560015828,0 108.0917174758782,-6.874534489447521,0 108.0916630007206,-6.873100712396224,0 108.0922223374121,-6.872499461608714,0 108.0901322515809,-6.870453030028949,0 108.0866136369867,-6.867144212568009,0 108.0821575294593,-6.866305273239061,0 108.07697129253,-6.870761674447805,0 108.0718093190578,-6.87845090957126,0 108.0710241589711,-6.888194705473206,0 108.0722646987277,-6.896533999144283,0 108.0690190032895,-6.899247840207795,0 108.0602913448712,-6.899517939385727,0 108.0534545555857,-6.896167134774006,0 108.0493926739714,-6.8962454013062,0 108.0396221077373,-6.901223481529504,0 108.0353970524329,-6.906224652268525,0 108.0360491104785,-6.909720237457345,0 108.0410988284163,-6.914764244459884,0 108.0412034924688,-6.922069459346375,0 108.0379917926954,-6.922840056112548,0 108.0281031499294,-6.923570831508981,0 108.0244607683906,-6.92982199652455,0 108.0221000459101,-6.932745941119189,0 108.0208308886037,-6.941582810632359,0 108.0119784950113,-6.953389686863817,0 108.0170708323608,-6.95513734531203,0 108.0275513878268,-6.955740699264696,0 108.0466642875344,-6.956205211762942,0 108.0580172397896,-6.966184761273,0 108.0776046666473,-6.965658574830785,0 108.0902650942269,-6.966927428592912,0 108.091017480579,-6.957476331310241,0 108.0960394640891,-6.950981833821031,0 108.0984403007182,-6.943275090876359,0 108.1045948273538,-6.934168068664561,0 108.1085134559614,-6.920265757901333,0 108.1086953545675,-6.920072870467047,0 108.10819382213,-6.919567340787501,0 108.1070084237806,-6.917475813860681,0 108.1068645557617,-6.916774230023483,0 108.1068532242629,-6.915395710087817,0 108.1064166305669,-6.914045562657642,0 108.1058465205257,-6.913337060724185,0 108.1051027908811,-6.911643868711477,0 108.104523766484,-6.911003591599564,0 108.1043280474697,-6.910180869584291,0 108.1035468524818,-6.909015978461283,0 108.0971147956309,-6.899396884062535,0 108.0957182004131,-6.896310992615442,0 108.1013895406154,-6.890514394064134,0 108.1015168818513,-6.889923288138544,0 108.1023485548479,-6.888694765652034,0 108.1028640554829,-6.886899649866711,0 108.1030133424286,-6.886016924004665,0 108.1030895701423,-6.885795888553111,0 108.1030330950457,-6.883586728646366,0 108.1026483595034,-6.881977470904883,0 108.1019465882017,-6.881167976872746,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Cibugel</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							108.0821879121957,-6.966055150060716,0 108.0735431880603,-6.965686701775681,0 108.0680297850477,-6.965869922490736,0 108.0579091901538,-6.966036997029878,0 108.0466910592872,-6.956283104447258,0 108.0170665504956,-6.955172965040367,0 108.01203651937,-6.953341197977365,0 107.998982868498,-6.948208129893978,0 107.980496543404,-6.948673397604854,0 107.9774320024022,-6.950968499058907,0 107.9662820223469,-6.956566880068014,0 107.9667560123074,-6.959074207075505,0 107.9676023952518,-6.96038055780101,0 107.9694017467683,-6.961903617637646,0 107.9732351810454,-6.965805892055499,0 107.9769702394593,-6.970340079135396,0 107.9805780880088,-6.975874180759456,0 107.9826098484636,-6.977873770517832,0 107.9850531179058,-6.979150692454853,0 107.9867586150509,-6.979860169757764,0 107.988984599581,-6.980344975124483,0 107.9967610957181,-6.982930652983523,0 108.009120626922,-6.981926880037506,0 108.0151982994908,-6.983435863804212,0 108.0199065590468,-6.98502472897008,0 108.0233327528168,-6.986884463091006,0 108.0270294519155,-6.989369306997087,0 108.0290347362362,-6.991545356174567,0 108.0316180644224,-6.992927926766351,0 108.0330166468422,-6.993923085430087,0 108.0341465324405,-6.994213174132635,0 108.0362785331098,-6.995239340883575,0 108.0403096090917,-6.996560012589657,0 108.0424396522685,-6.996917119876708,0 108.0445730018599,-6.996428770184629,0 108.0478531114558,-6.995533639894155,0 108.0491837001239,-6.995536202179421,0 108.0508433838815,-6.995467568120628,0 108.0529220701811,-6.995887890142268,0 108.055224849978,-6.99613341448716,0 108.0564377467356,-6.996112500077099,0 108.057817993463,-6.995988986317226,0 108.0596880337609,-6.995170093159433,0 108.0612240396237,-6.994413755714303,0 108.0627092279102,-6.993129283302945,0 108.064896710774,-6.991178484294922,0 108.0679890300275,-6.987054442151282,0 108.0689671214823,-6.985463896037795,0 108.0699156339906,-6.984666856384131,0 108.0711654574805,-6.984068586714467,0 108.0719354562181,-6.984549801158473,0 108.0738363663534,-6.987964869623443,0 108.0761446861959,-6.989703890501269,0 108.0775928300445,-6.989999055353998,0 108.0791566242171,-6.991282839314036,0 108.080381132345,-6.991840753305815,0 108.081728946613,-6.993383019395307,0 108.0832056080656,-6.9945464908058,0 108.0840830537535,-6.995577564250593,0 108.0870530283129,-6.996742058637676,0 108.0882403231987,-6.996655520417272,0 108.089345209408,-6.99624624497064,0 108.0902730127656,-6.99541151597569,0 108.0913259235573,-6.994718570383959,0 108.0922089179956,-6.992816353635469,0 108.092736844172,-6.991867322619361,0 108.0911846726986,-6.989972911867565,0 108.0914342061879,-6.98825038275957,0 108.0918003304644,-6.985169306119173,0 108.0905169377654,-6.98205944494454,0 108.0902607148216,-6.978232100676666,0 108.0898162937234,-6.976747820501121,0 108.0897556331034,-6.974637789925169,0 108.0897925611878,-6.972704511953705,0 108.0904598747367,-6.967248350716272,0 108.0901171409132,-6.966920201827279,0 108.0821879121957,-6.966055150060716,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Cisarua</name>
+			<styleUrl>#msn_ylw-pushpin22</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							108.0287042788715,-6.821289400141308,0 108.02801026193,-6.81578293455107,0 108.0283129743095,-6.814035265421757,0 108.0284276946746,-6.813718901104108,0 108.0234349956258,-6.810322812646776,0 108.0126654636778,-6.811915496165484,0 108.0028459771293,-6.812124755768938,0 107.9965657984456,-6.807934925393503,0 107.9931180554161,-6.812942493146338,0 107.9879533951228,-6.817886368908132,0 107.9701730171177,-6.818708497374892,0 107.9606094768916,-6.818078464080468,0 107.9475022856606,-6.814565979893197,0 107.9451630096705,-6.814554868354308,0 107.9443782713746,-6.814325512313614,0 107.9447686758171,-6.833191244519363,0 107.9459201937396,-6.838816920575515,0 107.9471351369779,-6.841757041815029,0 107.9522591458666,-6.846371372174834,0 107.973994864766,-6.846022353260228,0 107.9847009649594,-6.845428351757764,0 107.9932004917792,-6.840456415977585,0 107.9981216130566,-6.83650699426566,0 107.9999177616833,-6.83415434287804,0 108.0052228692707,-6.829525885001222,0 108.0107510403671,-6.824749530659971,0 108.0162005774099,-6.82674053806107,0 108.022556400896,-6.826910112276239,0 108.0278782802869,-6.825502176802593,0 108.0287042788715,-6.821289400141308,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Ganeas</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							107.9999359689197,-6.834248164156628,0 107.9981547745334,-6.836431838237916,0 107.9932369471545,-6.840410426504171,0 107.9847386886043,-6.845401870431543,0 107.9740207853582,-6.846011038864434,0 107.9522329963536,-6.846401629658444,0 107.9511603443107,-6.852006741883419,0 107.9482998547149,-6.857612039662049,0 107.9533715247898,-6.863026513729928,0 107.954320685444,-6.866366824279443,0 107.9514736497886,-6.882966397634625,0 107.9497500826489,-6.886253581965693,0 107.9488772915166,-6.920653559455575,0 107.9505136718602,-6.925842910114238,0 107.9550169299871,-6.932596162441695,0 107.9574351994338,-6.934482622039656,0 107.9580131218482,-6.939409400212979,0 107.9686760860617,-6.939659277342604,0 107.9723953744925,-6.941485800851998,0 107.9786632453349,-6.944391274629351,0 107.9820758338352,-6.943758830621743,0 107.9769060408556,-6.93781002889796,0 107.9745358025285,-6.925667946858094,0 107.9742363814009,-6.91993154109033,0 107.9739657222392,-6.914066699162755,0 107.9737209277187,-6.911564452632484,0 107.9736607456444,-6.905464703491716,0 107.9803055912382,-6.898895430569395,0 107.9890645635246,-6.896963915644323,0 107.9909659531437,-6.890896292893754,0 107.9910458423363,-6.862550414632465,0 107.9951395142664,-6.856370862599692,0 108.0001097076021,-6.839729655649337,0 107.9999359689197,-6.834248164156628,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sumedang Selatan</name>
+			<styleUrl>#msn_ylw-pushpin23</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							107.9484729780308,-6.857557280355673,0 107.9363716379132,-6.857369657357624,0 107.9270715503122,-6.851577779895796,0 107.9200892130297,-6.843314753191834,0 107.9158059543385,-6.840085747346245,0 107.9114617640636,-6.839020096422413,0 107.9093016522928,-6.841974459980953,0 107.9095102783398,-6.847688200306846,0 107.9046124255311,-6.853871737597638,0 107.8981738967592,-6.85594447050686,0 107.8869926080548,-6.85877829721239,0 107.8838284827727,-6.862472539537142,0 107.875546422034,-6.863641789907959,0 107.8672313688649,-6.87384322901308,0 107.8725304268938,-6.881291619931855,0 107.8788157356834,-6.891376392013024,0 107.8797997297533,-6.902706709401993,0 107.8770718455603,-6.924713181710355,0 107.8751916547723,-6.935659106841021,0 107.8815057945367,-6.938586491895559,0 107.8906710974044,-6.938845567825732,0 107.9035120966349,-6.937680094070617,0 107.9126845383655,-6.938107876510994,0 107.9183018807535,-6.942202897481805,0 107.9190938942528,-6.945949376263975,0 107.9229178254466,-6.950628959608743,0 107.926127910641,-6.953119831955005,0 107.9292443811147,-6.953571711022027,0 107.9311186067249,-6.953206119769357,0 107.9352974681476,-6.952655176614416,0 107.9369093072048,-6.952506430406121,0 107.9385649902129,-6.953278026255516,0 107.9395628894796,-6.954437950070664,0 107.9458312431236,-6.95787891045569,0 107.950453756252,-6.959189895888917,0 107.9538522587552,-6.960204272730331,0 107.9560942223274,-6.959958154262433,0 107.9581030572039,-6.95957735549264,0 107.9598999154197,-6.95864339885723,0 107.9610104575639,-6.957742145219045,0 107.9620526324025,-6.956844427100407,0 107.9631214350194,-6.955540155217793,0 107.964584085381,-6.955373367024489,0 107.9660724260754,-6.956082718306578,0 107.9663734037583,-6.956651468964282,0 107.9771857684953,-6.951123794455929,0 107.9804529153971,-6.948716515584264,0 107.978387946846,-6.944236240749874,0 107.9685439227117,-6.939671077308533,0 107.9582178783195,-6.939385900104309,0 107.9573145295086,-6.934743077838745,0 107.9551293063639,-6.932595701067232,0 107.9523913151948,-6.928635454250578,0 107.9500670002973,-6.925011362188616,0 107.9487495425176,-6.920407956371744,0 107.9490737503518,-6.913988481074038,0 107.9490718607552,-6.910053011264152,0 107.9492829914054,-6.904580330820994,0 107.9496794790583,-6.888089737276911,0 107.9500767557129,-6.885404160833991,0 107.9513248605602,-6.88263210360488,0 107.9531461953722,-6.873086226651389,0 107.9541806510466,-6.866113067294636,0 107.9532458970241,-6.862955718288198,0 107.9484729780308,-6.857557280355673,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sumedang Utara</name>
+			<styleUrl>#msn_ylw-pushpin17</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							107.9443451425173,-6.814265448313342,0 107.9422861525809,-6.810338535423391,0 107.9416135546316,-6.809551907631956,0 107.9348253579245,-6.809700960318952,0 107.9289437321704,-6.804346001606312,0 107.921295177168,-6.804244411742788,0 107.9141889943614,-6.799249291870504,0 107.9082937009371,-6.798251863564294,0 107.9082638799946,-6.80531528731918,0 107.9053158327038,-6.808820154576496,0 107.9003309991219,-6.808532263063735,0 107.8996050440343,-6.807926545105727,0 107.8987641575249,-6.807632596084092,0 107.898023890513,-6.806894887135049,0 107.8966608906817,-6.80569732407453,0 107.8956149678845,-6.803995570951691,0 107.8952697664619,-6.803147556887629,0 107.8908704419156,-6.80217400081416,0 107.8832766023707,-6.803135765486294,0 107.884711416324,-6.807975884543851,0 107.8859328589151,-6.812332422879821,0 107.8855867524034,-6.821998409540456,0 107.8850226925823,-6.825897040626964,0 107.8828409166444,-6.828446102489787,0 107.878150230707,-6.829664033128245,0 107.8647926160316,-6.830595957083664,0 107.8597712761981,-6.832268962393031,0 107.8578393932354,-6.833915883199261,0 107.8583795800083,-6.836773053316955,0 107.8599604184372,-6.8379441068667,0 107.8656125956891,-6.838456870580681,0 107.8709813164725,-6.84438561302138,0 107.8856388528994,-6.857807259716842,0 107.8868718891377,-6.858815123686645,0 107.8982256744776,-6.855955020278299,0 107.9046545932553,-6.85391318281624,0 107.9095822493572,-6.847657374304554,0 107.9092675650116,-6.8420151500143,0 107.9114099890206,-6.839077312266281,0 107.9157815308437,-6.840048423777309,0 107.9201180344696,-6.843310553661772,0 107.9270233586958,-6.851498183856165,0 107.9363446504035,-6.857279469796815,0 107.9483658949208,-6.857567884276626,0 107.9511005986841,-6.851960348295433,0 107.952128764042,-6.846304812910984,0 107.9470509031881,-6.84165091975256,0 107.9458295228143,-6.838425976061995,0 107.9448397168742,-6.833118598088082,0 107.9443451425173,-6.814265448313342,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Rancakalong</name>
+			<styleUrl>#msn_ylw-pushpin16</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							107.8832999255269,-6.803110510257269,0 107.8773798231655,-6.79906939241109,0 107.8776170900781,-6.794711075356502,0 107.878127212801,-6.794143456625492,0 107.8783720766233,-6.793118071202706,0 107.878232030541,-6.791246625260445,0 107.8778397085394,-6.79019231929678,0 107.8774073496109,-6.788288797413335,0 107.8774591575156,-6.787591162354846,0 107.8770378188386,-6.786595514208048,0 107.8757240837599,-6.785305362951097,0 107.8745295393464,-6.784173892605607,0 107.8740732072622,-6.783260259368483,0 107.8723211530106,-6.780659133161953,0 107.8422529889523,-6.779060527154941,0 107.8348405656905,-6.781222829535138,0 107.8344134586118,-6.781656810901796,0 107.8326995092303,-6.782273833972674,0 107.8319354433816,-6.782206661749818,0 107.8293479834143,-6.78277087823929,0 107.8282200354335,-6.783390272150014,0 107.8270331689608,-6.784168704353108,0 107.824968414176,-6.783861157930062,0 107.81870962615,-6.783094358490232,0 107.8180621319003,-6.786574042418504,0 107.8177605915521,-6.787525737233695,0 107.81585568517,-6.790328416654189,0 107.8130847578881,-6.792633618799276,0 107.807273495085,-6.79952081230355,0 107.803560254309,-6.803629538208853,0 107.8020039642514,-6.804599048825669,0 107.7995018562303,-6.805213453810852,0 107.7976246648751,-6.805150260613568,0 107.7945968917321,-6.802231533286263,0 107.7913874747758,-6.799950123592737,0 107.7889472331809,-6.798737120569355,0 107.7870768371073,-6.798618981463222,0 107.7852017171661,-6.799034931114754,0 107.7831664106605,-6.79964576289907,0 107.7795979873014,-6.79777457401334,0 107.7778262132788,-6.796443609964529,0 107.7771041584785,-6.795747261265277,0 107.7774926828228,-6.799830844477823,0 107.7801528627984,-6.803877379740716,0 107.7838556556467,-6.80951656191808,0 107.7914784057527,-6.818551905198006,0 107.7931129589503,-6.821796795964743,0 107.7935369502001,-6.83537531129465,0 107.7935285186091,-6.839288073838864,0 107.7997187046614,-6.84831062226209,0 107.8051839519848,-6.855773423166983,0 107.8064145425644,-6.857049166691407,0 107.8152996489718,-6.859795029918629,0 107.8243452431509,-6.862340961531198,0 107.8328331529504,-6.863165079416355,0 107.8421069010873,-6.857051140243647,0 107.8443158006382,-6.850201320754931,0 107.8496182619926,-6.849137215886586,0 107.8566583801043,-6.853233116253095,0 107.8633167619735,-6.857823802139247,0 107.8630245718641,-6.861693513134254,0 107.858311121927,-6.866367698222456,0 107.8546767988424,-6.876819493166721,0 107.8563251695189,-6.880594539610845,0 107.8586367236366,-6.881025662784861,0 107.863782038934,-6.877621096800091,0 107.8671635598391,-6.873773310832519,0 107.8741709393102,-6.865163778476617,0 107.8756241263373,-6.863573526740144,0 107.8837565287839,-6.862447373959632,0 107.8868445072319,-6.858732738925537,0 107.8710448789329,-6.844414795665996,0 107.8655496815929,-6.83839249916181,0 107.8598869158709,-6.837916579086772,0 107.8583897901183,-6.836775942038147,0 107.8578389764341,-6.833868481723931,0 107.8597761991473,-6.832345940299508,0 107.8649173249308,-6.830599741176472,0 107.8779957092451,-6.829661721138511,0 107.8827619433161,-6.828417190200159,0 107.8849596922978,-6.825893495217192,0 107.8856605399522,-6.822078053568663,0 107.8858392171873,-6.817702806205459,0 107.8858696679395,-6.81226853749563,0 107.8832999255269,-6.803110510257269,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Pamulihan</name>
+			<styleUrl>#msn_ylw-pushpin7</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							107.8637265986486,-6.87743423315935,0 107.8585524574655,-6.880979982060593,0 107.8563158614865,-6.880663681114318,0 107.8548286092846,-6.876812865620119,0 107.8582392093303,-6.866289623392623,0 107.862874130834,-6.861642528227758,0 107.8632969578675,-6.857855647685656,0 107.856710145444,-6.853144410519985,0 107.8495825143444,-6.84916738530357,0 107.8443589145027,-6.850267176996866,0 107.8422180864637,-6.85689251094942,0 107.8328571962334,-6.863176551847953,0 107.8239234121902,-6.862397439757843,0 107.8064498531459,-6.857138146298346,0 107.7936117971692,-6.839230585265245,0 107.7906823651497,-6.845175378503515,0 107.7875516703942,-6.850375905033502,0 107.7871666771182,-6.855383177925027,0 107.7901766589961,-6.858286016800257,0 107.7949567098702,-6.862149668037093,0 107.7944401671618,-6.871627766548738,0 107.7965848654088,-6.877577525041946,0 107.7957857023322,-6.880139097075013,0 107.7930213914924,-6.881377683758116,0 107.7909166823986,-6.887261960890205,0 107.7939071664214,-6.891140172191604,0 107.7977897637455,-6.890407245398958,0 107.7999483400935,-6.891461837742651,0 107.8004574193525,-6.895766788454687,0 107.81159709856,-6.898784316864691,0 107.8147419854363,-6.902334421855057,0 107.81535718754,-6.907924136961432,0 107.820955255785,-6.914280950516268,0 107.82130469291,-6.91659286877245,0 107.8162341334341,-6.927079245760935,0 107.8129190302689,-6.932242221060075,0 107.8202316650431,-6.935947068933437,0 107.8289212220569,-6.935816361978658,0 107.8471173883173,-6.930923219816193,0 107.8587450657535,-6.935785571838666,0 107.8661237106363,-6.936775098337438,0 107.8752692317381,-6.935454521211898,0 107.8771122969636,-6.923888375611909,0 107.8781099705837,-6.916731731862624,0 107.8797105981011,-6.90266407772206,0 107.8787545817477,-6.891384102736708,0 107.8725447393463,-6.881174021643807,0 107.8671625560389,-6.873806413939628,0 107.8637265986486,-6.87743423315935,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Tanjungsari</name>
+			<styleUrl>#msn_ylw-pushpin18</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							107.7930027844713,-6.821762673720343,0 107.7913431830592,-6.818390334499072,0 107.7836928930918,-6.809291154039662,0 107.7774803235948,-6.799817659911027,0 107.7770501233227,-6.795756619176946,0 107.7746803754929,-6.794197315776777,0 107.7724795615244,-6.793418010944623,0 107.7703566542931,-6.794419964872449,0 107.7683259384841,-6.796701825247982,0 107.765982177102,-6.798298863646029,0 107.763845567728,-6.799340383378613,0 107.7549509242451,-6.804248040649677,0 107.7421553397863,-6.806109142221929,0 107.7409415621141,-6.814966459101575,0 107.7402614995408,-6.81968583029459,0 107.7407264140906,-6.824297203990743,0 107.741881932504,-6.826144539469129,0 107.7427337595784,-6.82750059644887,0 107.7432103325899,-6.830009322267711,0 107.7419143495056,-6.83505074074287,0 107.7403602043595,-6.837626693983825,0 107.7395826100962,-6.841564192951039,0 107.7401538094095,-6.843714628734316,0 107.7400280934167,-6.846543543050525,0 107.738666157122,-6.851289280416837,0 107.7382692615434,-6.855164838349507,0 107.7376207122664,-6.857985248553531,0 107.7362072588463,-6.861504299249443,0 107.7350237546323,-6.864874730848878,0 107.7348654221761,-6.866626674056368,0 107.736023831703,-6.868870209248203,0 107.737754954034,-6.871493237315326,0 107.7421987806484,-6.873185720072395,0 107.7450557311155,-6.87591532101915,0 107.7461772900276,-6.867544794189726,0 107.7579174957417,-6.852177976495673,0 107.7626878327755,-6.848703650839961,0 107.7660111658171,-6.844068091995532,0 107.7704419642065,-6.84441190502988,0 107.772206551611,-6.851787650404549,0 107.7759139329152,-6.858037039359242,0 107.7775690993875,-6.862966376380979,0 107.7834130386041,-6.866875302354213,0 107.784594007161,-6.874269424083995,0 107.7834563861404,-6.876674765878869,0 107.7728731993828,-6.887479597585325,0 107.7730073281963,-6.888988156319731,0 107.776834486377,-6.888903013313247,0 107.7833087957791,-6.892702038381901,0 107.7827727680402,-6.897086225503302,0 107.7797076406565,-6.906496896888694,0 107.7723747672555,-6.90942747155503,0 107.7687916354464,-6.910382964124652,0 107.7690740233439,-6.914784843047155,0 107.7711073355544,-6.916561901070303,0 107.7802230080036,-6.919063492458692,0 107.7865644974132,-6.924635904878659,0 107.7880865233746,-6.925908036350221,0 107.7939303305397,-6.926857873286375,0 107.7994328190803,-6.930961017862442,0 107.8066539070741,-6.929664151678176,0 107.8130807374333,-6.932190948735534,0 107.8165277844653,-6.925991188770023,0 107.8211065850607,-6.916640994410193,0 107.8209336926183,-6.913991567038584,0 107.8154531593489,-6.907823175787525,0 107.8146276187291,-6.902357372859121,0 107.8115488453252,-6.898760404611728,0 107.8004523184628,-6.895790557723851,0 107.7999288236846,-6.891632559624998,0 107.7979850036807,-6.890371504571003,0 107.7938693516266,-6.891238745480632,0 107.7909645833219,-6.886987952988083,0 107.7932150876809,-6.881440822528775,0 107.7954736793415,-6.880216370592891,0 107.7966702343399,-6.877546401791319,0 107.7945686270735,-6.871424269747362,0 107.7951418821534,-6.862135673327653,0 107.7872915568212,-6.855083884280248,0 107.7875733065796,-6.849903895579697,0 107.7908171379073,-6.844968623466468,0 107.7937227445511,-6.839084555002849,0 107.7930027844713,-6.821762673720343,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Jatinangor</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							107.7880399272138,-6.925883018356315,0 107.780173161555,-6.919071042557908,0 107.7711947560546,-6.916631638895352,0 107.7691179369251,-6.914815237022773,0 107.7688926969796,-6.91034597641326,0 107.7687473599142,-6.903046643688784,0 107.7693608887296,-6.900428744590436,0 107.7730844133922,-6.8964370733494,0 107.7689356309919,-6.891897241397267,0 107.7635525534709,-6.888903807169693,0 107.7575384755055,-6.88924149360227,0 107.7554091198604,-6.889932541681136,0 107.7570375440083,-6.893559079030402,0 107.7561880274859,-6.901036102451275,0 107.7549931368448,-6.906013147669401,0 107.755427615582,-6.907045023557876,0 107.754420439059,-6.91016679287136,0 107.7545526568322,-6.92047050958642,0 107.7536480924017,-6.93076628596363,0 107.7539708025194,-6.935677321954294,0 107.7555545672013,-6.940590546102214,0 107.7579089577329,-6.944163362672981,0 107.7606626964697,-6.946414888817885,0 107.7653855028174,-6.948158908671302,0 107.7744539147318,-6.951338594446458,0 107.7770613568467,-6.952034921492595,0 107.7894982381224,-6.940084609313742,0 107.7893533998802,-6.93198253878476,0 107.7880399272138,-6.925883018356315,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sukasari</name>
+			<styleUrl>#msn_ylw-pushpin20</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							107.7556017984708,-6.889893456852457,0 107.7573626686108,-6.889260831375911,0 107.7635795007844,-6.88893502338664,0 107.7689283383566,-6.891944688744703,0 107.7730248306009,-6.896420082356674,0 107.7694430568797,-6.900372338774708,0 107.7687293967833,-6.902849733568564,0 107.7689618592662,-6.910402021648833,0 107.7724225376655,-6.909465996843522,0 107.7796415402909,-6.90649852854552,0 107.7826995975067,-6.897073990088454,0 107.7833737335928,-6.892681196021393,0 107.7767971274237,-6.888939887993841,0 107.7730217100662,-6.888875376530968,0 107.7729130554438,-6.887404693208224,0 107.7745434632613,-6.885758264902037,0 107.7798048375175,-6.88025346823744,0 107.7833865576124,-6.876838240403703,0 107.7846082522915,-6.874165656342747,0 107.78337923546,-6.866849078105058,0 107.7775714764575,-6.863032727306202,0 107.775946668005,-6.858026359677762,0 107.7722180567668,-6.851707768571468,0 107.7704845367072,-6.844441098280928,0 107.7659867253273,-6.84407436860427,0 107.7626860065842,-6.848610093338881,0 107.7579191449299,-6.852217593434681,0 107.7574323099472,-6.852863176114347,0 107.7525618752828,-6.859297160527519,0 107.7462162236616,-6.867456175493873,0 107.7450786307147,-6.875799566631873,0 107.7464993296254,-6.877006917752115,0 107.7485747806589,-6.879185495187506,0 107.750029948472,-6.880879680198606,0 107.7526532698421,-6.884462495776881,0 107.7556017984708,-6.889893456852457,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Cimanggung</name>
+			<styleUrl>#msn_ylw-pushpin11</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							107.8128811283287,-6.932101337854958,0 107.8066184446974,-6.929614059024276,0 107.8014551695018,-6.930574702254806,0 107.7994645514281,-6.930867689981415,0 107.7958264410103,-6.928267847748234,0 107.7937721048294,-6.92678105647177,0 107.7880973013737,-6.925966310776707,0 107.7893504310378,-6.931898965222882,0 107.7893481984375,-6.93998419739454,0 107.776946494249,-6.952112742468374,0 107.8036703625543,-6.960188071076173,0 107.8197716910664,-6.960128917815382,0 107.8277678933868,-6.960541395836422,0 107.8339384854152,-6.963623064469361,0 107.8418546609911,-6.965222612116456,0 107.8516820546422,-6.962649389758868,0 107.8612443715001,-6.961213458826141,0 107.8685677154157,-6.958980088191797,0 107.884837462153,-6.958410590635106,0 107.889573034281,-6.953358801277137,0 107.8947686895924,-6.950535406050133,0 107.8991246855188,-6.949002112589497,0 107.9044706142915,-6.94988819215631,0 107.9086338751485,-6.948619776285543,0 107.9129599317368,-6.946752562616865,0 107.9190647102859,-6.945885464359522,0 107.9182645489032,-6.942187686541693,0 107.9126818179657,-6.938079316731487,0 107.9044551585885,-6.937746687334651,0 107.8910382018489,-6.938888387377546,0 107.8816479702534,-6.938631513756931,0 107.8750578400233,-6.935515804594237,0 107.866099766567,-6.936678217209257,0 107.8587633748218,-6.935765030482728,0 107.847062265773,-6.930937249108719,0 107.8288819178289,-6.935772220029692,0 107.8201264913563,-6.936007308399336,0 107.8128811283287,-6.932101337854958,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
