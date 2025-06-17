@@ -25,16 +25,16 @@
             <div class="entry-content">
              <?php
 				$link=koneksi_db();
-				$sql="select f.*,j.*,ka.*,ke.*,i.* from fasum f, jenis_fasum j, kategori_fasum ka, kecamatan ke, instansi i WHERE f.id_jenis=j.id_jenis AND j.id_kategori=ka.id_kategori AND f.id_instansi=i.id_instansi AND f.id_kecamatan=ke.id_kecamatan "; 
+				$sql="select * from fasum"; 
 				if(isset($_POST['tblcari']))
 				{
 				$fieldcari=$_POST['fieldcari'];
 				$keyword=$_POST['keyword'];
 				$sql=$sql." AND $fieldcari like '%$keyword%'";
 				}
-				$sql.="order by id_fasum";
-				$res=mysql_query($sql,$link); 
-				$banyakrecord=mysql_num_rows($res); 
+				$sql.=" order by id_fasum";
+				$res = mysqli_query($link, $sql); 
+				$banyakrecord=mysqli_num_rows($res); 
 				if($banyakrecord>0){ 
 				?> 
                 <div align="center" class="pencarian">
@@ -58,26 +58,26 @@
         <thead>
         <th col="col">ID</th>
         <th col="col">NAMA</th>
-        <th col="col">JENIS</th>
-        <th col="col">KATEGORI</th>
+        <!-- <th col="col">JENIS</th>
+        <th col="col">KATEGORI</th> -->
         <th col="col">KONDISI</th>
         <th col="col">ALAMAT</th>
-        <th col="col">KECAMATAN</th>        
+        <!-- <th col="col">KECAMATAN</th> -->        
         </thead>
         <tbody>
 		  <?php
 		  	$i=0;
-		  	while($data=mysql_fetch_array($res)){
+		  	while($data = mysqli_fetch_array($res)){
 		  		$i++; 
 		  ?> 
 		  	<tr>
 		  	   <td><?php echo $data['id_fasum'];?></td>
 		  	   <td><?php echo $data['nama_fasum'];?></td> 
-		  	   <td><?php echo $data['jenis_fasum'];?></td>
-               <td><?php echo $data['nama_kategori'];?></td>
+		  	   <!-- <td><?php echo $data['jenis_fasum'];?></td>-->
+               <!-- <td><?php echo $data['nama_kategori'];?></td>-->
                <td><?php echo $data['kondisi'];?></td>
                <td><?php echo $data['alamat'];?></td>
-               <td><?php echo $data['nama_kecamatan'];?></td>
+               <!-- <td><?php echo $data['nama_kecamatan'];?></td>-->
 			   
 		  	</tr>
 		  <?php

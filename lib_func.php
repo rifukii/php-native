@@ -36,7 +36,7 @@
 	}
 	function komen(){
 	?>
-		<fieldset>
+		<!-- <fieldset>
         <legend>Komentar Baru</legend>
             <?php 
 			$link=koneksi_db();
@@ -49,7 +49,7 @@
             
             }
 			?>
-</fieldset>
+</fieldset> -->
         
 	<?php
 	}
@@ -60,9 +60,9 @@
             <li><a href="profil.php">Profil</a></li>
             <li><a href="lihat_peta.php">Peta</a></li>
             <li><a href="fasum_lihat.php">Fasilitas Umum</a></li>
-            <li><a href="komentar.php">Komentar</a></li>
+            <!-- <li><a href="komentar.php">Komentar</a></li> -->
             <li><a href="kontak.php">Hubungi Kami</a></li>
-            <li><a href="admin/index.php">Login</a></li>
+            <!-- <li><a href="admin/index.php">Login</a></li>*/ -->
         </ul>
 	<?php
 	}
@@ -80,17 +80,19 @@
 	?>
 	<?php
 	}
-		function koneksi_db(){
-		$host = "localhost";
-		$database = "fasumsum_sig";
-		$user = "fasumsum_rifky";
-		$password = "0804031991";
-		$link=mysql_connect($host,$user,$password);
-		mysql_select_db($database,$link);
-		if(!$link)
-			echo "Error : ".mysql_error();
-		return $link;
-	}
+		function koneksi_db() {
+    $host = "localhost";
+    $user = "root";
+    $password = "";
+    $database = "sig";
+
+    $link = mysqli_connect($host, $user, $password, $database);
+    if (!$link) {
+        die("Koneksi gagal: " . mysqli_connect_error());
+    }
+    return $link;
+}
+
 	function kalender(){
 	?>
 
