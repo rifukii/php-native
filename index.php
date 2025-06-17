@@ -28,7 +28,6 @@
                 
                 <p>Pembangunan sistem informasi geografis pemetaan fasilitas umum ini bertujuan untuk membantu mempermudah pengelolaan data fasilitas umum dengan pengelolaan data berbasis database, mempermudah pemantauan keadaan fasilitas umum dan menampilkan status pembangunan fasilitas umum yang ada serta memberikan rekomendasi pembangunan yang tepat.
 </p>
-<p>Pengunjung dipersilahkan memberi komentar di menu Komentar</p>
             </div>
         </article> 
     </div> 
@@ -36,7 +35,6 @@
     <aside class="widget">
             <?php kalender();?>
 			<?php support();?>
-			<?php komen();?>
             <?php link_terkait();?>
       </aside>
     </aside>
