@@ -36,7 +36,8 @@
 				$res = mysqli_query($link, $sql); 
 				$banyakrecord=mysqli_num_rows($res); 
 				if($banyakrecord>0){ 
-				?> 
+				?>
+                <!--  
                 <div align="center" class="pencarian">
                 <form method="post" action="<?php echo $_SERVER['PHP_SELF'];?>">
                 Pencarian
@@ -51,7 +52,8 @@
                 </select> 
                 <input type="text" name="keyword" size=30 maxlength="30" 
                 value="<?php if(isset($_POST['keyword'])) echo $_POST['keyword'];?>">
-               <button type="submit" class="positive" name="tblcari">Cari</button></form></div>
+               <button type="submit" class="positive" name="tblcari">Cari</button>
+            </form></div>-->
                     <div class="info">Data ditemukan sebanyak: <b><?php echo $banyakrecord;?></b> Record</div>
         
 		<div align="center"><table class="tabel">
